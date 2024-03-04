@@ -42,7 +42,7 @@ import {QueryEngine} from "@comunica/query-sparql";
 import {getQueryResults, buildVerbPairQuery, buildPrefixQuery} from "./services/sparql"; 
 
 const url = ref("");
-onMounted(() => { url.value = `${location.origin}/aspect.ttl`; console.log(url.value) });
+onMounted(() => { url.value = location.href.replace(/\/[^/]+$/, "/aspect.ttl"); console.log(url.value) });
 
 const sparql = new QueryEngine();
 
