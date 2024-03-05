@@ -6,7 +6,8 @@
     </thead>
     <tr v-for="row in results">
     <td v-for="(col, name) in row">
-        <a :href="col">{{ col }}</a>
+        <a :href="col.val" v-if="col.type !== 'Literal'">{{ col.val }}</a>
+        <span v-else>{{ col.val }}</span>
     </td>
     </tr>
     </table>

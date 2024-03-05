@@ -51,7 +51,7 @@ export const getQueryResults = async (sparql: QueryEngine,
     const bindings = await bindingsStream?.toArray()
 
     for(let row of bindings) {
-        result.push(Object.fromEntries(keys.map((key) => [key, row.get(key).value])))
+        result.push(Object.fromEntries(keys.map((key) => [key, { val: row.get(key).value, type: row.get(key).termType }])))
     }
 
     return result
@@ -69,7 +69,7 @@ export const getDescribeResults = async (sparql: QueryEngine,
     for(let row of quads) {
         result
             .push(Object.fromEntries(['subject', 'predicate', 'object', 'graph']
-                .map((key) => [key, row[key].value])))
+                .map((key) => [key, { val: row[key].value, type: row[key].termType }])))
     }
 
     return result

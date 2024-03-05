@@ -15,7 +15,7 @@ This allows you to see how the aspectual pair is formed for a given verb
         <tr><td>Verb</td></tr>
     </thead>
     <tr v-for="{s2, lemma2} in aspectPairs">
-    <td><a :href="s2">{{ lemma2 }}</a></td>
+    <td><a :href="s2.val">{{ lemma2.val }}</a></td>
     </tr>
     </table>
 </div>
@@ -31,7 +31,7 @@ This allows you to see how the aspectual pair is formed for a given verb
     Results:
     <table>
     <tr v-for="{s, lemma} in prefixedVerbs">
-    <td><a :href="s">{{ lemma }}</a></td>
+    <td><a :href="s.val">{{ lemma.val }}</a></td>
     </tr>
     </table>
 </div>
