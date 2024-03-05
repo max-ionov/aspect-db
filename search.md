@@ -14,8 +14,8 @@ This allows you to see how the aspectual pair is formed for a given verb
     <thead>
         <tr><td>Verb</td></tr>
     </thead>
-    <tr v-for="verb in aspectPairs">
-    <td>{{ verb }}</td>
+    <tr v-for="{s2, lemma2} in aspectPairs">
+    <td><a :href="s2">{{ lemma2 }}</a></td>
     </tr>
     </table>
 </div>
@@ -30,8 +30,8 @@ This allows you to see how the aspectual pair is formed for a given verb
 <div v-if="prefixedVerbs?.length">
     Results:
     <table>
-    <tr v-for="verb in prefixedVerbs">
-    <td>{{ verb }}</td>
+    <tr v-for="{s, lemma} in prefixedVerbs">
+    <td><a :href="s">{{ lemma }}</a></td>
     </tr>
     </table>
 </div>
@@ -53,10 +53,10 @@ const aspectPairs = ref([]);
 const prefixedVerbs = ref([]);
 
 const getAspectPairs = () => {
-    getQueryResults(sparql, buildVerbPairQuery(queryVerb.value), "lemma2", url.value).then((result) => { aspectPairs.value = result });
+    getQueryResults(sparql, buildVerbPairQuery(queryVerb.value), ["s2", "lemma2"], url.value).then((result) => { aspectPairs.value = result });
 };
 
 const getVerbsWithPrefixes = () => {
-    getQueryResults(sparql, buildPrefixQuery(queryPrefix.value), "lemma", url.value).then((result) => { prefixedVerbs.value = result });
+    getQueryResults(sparql, buildPrefixQuery(queryPrefix.value), ["s", "lemma"], url.value).then((result) => { prefixedVerbs.value = result });
 }
 </script>
