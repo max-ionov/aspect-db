@@ -1,0 +1,33 @@
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX morph: <https://www.w3.org/community/ontolex/wiki/Morphology#>
+PREFIX lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#>
+PREFIX vartrans: <http://www.w3.org/ns/lemon/vartrans#>
+PREFIX decomp: <http://www.w3.org/ns/lemon/decomp#>
+
+CONSTRUCT {
+	?new_entry a ontolex:LexicalEntry ;
+	           ontolex:canonicalForm ?new_form ;
+	           decomp:subTerm ?prefix, ?source_entry .
+	?new_form a ontolex:Form ;
+	          ontolex:writtenRep ?new_string ;
+}
+WHERE {
+	?source_entry ontolex:canonicalForm/ontolex:writtenRep ?base_string .
+
+	?wfRel a morph:WordFormationRelation ;
+	       vartrans:source ?source_entry ;
+	       vartrans:target ?new_entry ;
+	       morph:WordFormationRule ?rule .
+
+	?rule a morph:DerivationRule ;
+          morph:replacement/morph:source ?srcPattern ;
+          morph:replacement/morph:target ?dstPattern ;
+          morph:involves ?prefix .
+
+    ?prefix morph:grammaticalMeaning [
+    	?pred ?obj ;
+    ] .
+
+    BIND(URI(CONCAT(STR(?new_entry), "_form")) AS ?new_form)
+    BIND(REPLACE(?base_string, ?srcPattern, ?dstPattern) AS ?new_string)
+}

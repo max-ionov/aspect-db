@@ -1,0 +1,32 @@
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix morph: <https://www.w3.org/community/ontolex/wiki/Morphology#> .
+@prefix lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#> .
+@prefix vartrans: <http://www.w3.org/ns/lemon/vartrans#> .
+@prefix decomp: <http://www.w3.org/ns/lemon/decomp#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+@prefix : <http://ionov.me/aspect-db/> .
+
+:parati a ontolex:LexicalEntry ;
+        ontolex:canonicalForm [
+          ontolex:writtenRep "parati"@sr
+        ] .
+:rel_pro_parati	a morph:WordFormationRelation ;
+                vartrans:source :parati ;
+                vartrans:target :proparati ;
+                morph:WordFormationRule 
+                                   :pro_pref_rule.
+
+:pro_pref_rule a morph:DerivationRule ;
+               morph:replacement [
+                 morph:source "^" ;
+                 morph:target "pro"
+               ] .
+
+:pro_prefix a ontolex:Morph, lexinfo:Prefix ;
+            rdfs:label "pro-"@sr ;
+            morph:grammaticalMeaning [
+              lexinfo:aspect lexinfo:Perfective
+            ] .
+
+:pro_pref_rule morph:involves :pro_prefix .
