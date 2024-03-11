@@ -1,4 +1,4 @@
-@prefix : <https://ionov.me/aspect-db-sr/> .
+@prefix : <https://ionov.me/aspect-db/sr-> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix decomp: <http://www.w3.org/ns/lemon/decomp#> .
 @prefix lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#> .

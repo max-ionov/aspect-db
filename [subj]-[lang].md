@@ -23,18 +23,14 @@ const sparql = new QueryEngine();
 const { params } = useData();
 const results = ref([]);
 
+// TODO: create a config and put it there
 const basePrefix = 'https://ionov.me/aspect-db/';
 const uri = `${basePrefix}${params.value?.subj}`;
-const endpoint = ref("");
-console.log(uri);
-onMounted(() => {
-    endpoint.value = location.href.replace(/\/[^/]+$/, "/aspect.ttl"); 
-    console.log(endpoint.value);
-
-    getDescribeResults(sparql, uri, endpoint.value)
-        .then((result) => { 
-            results.value = result;
-        })
-});
+const urls = ref([
+                    'https://raw.githubusercontent.com/max-ionov/aspect-db/main/rdf/aspect_bs.ttl',
+                    'https://raw.githubusercontent.com/max-ionov/aspect-db/main/rdf/aspect_hr.ttl',
+                    'https://raw.githubusercontent.com/max-ionov/aspect-db/main/rdf/aspect_sr.ttl'
+]);
+getDescribeResults(sparql, uri, endpoints.value).then((result) => { results.value = result; });
 
 </script>
