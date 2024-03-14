@@ -3,12 +3,15 @@ import {QueryEngine} from "@comunica/query-sparql";
 export const buildVerbPairQuery = (param: string) => {
     return `
         PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+        PREFIX lime: <http://www.w3.org/ns/lemon/lime#>
         PREFIX vartrans: <http://www.w3.org/ns/lemon/vartrans#>
         PREFIX decomp: <http://www.w3.org/ns/lemon/decomp#>
         
         
-        SELECT ?s2 ?lemma2
+        SELECT ?s2 ?lemma2 ?lang
         WHERE {
+            ?lexicon lime:entry ?s ;
+                     lime:language ?lang .
             ?s a ontolex:LexicalEntry .
             ?s ontolex:canonicalForm ?form  .
             ?form ontolex:writtenRep "${param}" .
@@ -28,11 +31,14 @@ export const buildVerbPairQuery = (param: string) => {
 
 export const buildPrefixQuery = (param: string) => {
     return `
+        PREFIX lime: <http://www.w3.org/ns/lemon/lime#>
         PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
         PREFIX lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#>
         PREFIX decomp: <http://www.w3.org/ns/lemon/decomp#>
-        SELECT ?s ?lemma
+        SELECT ?s ?lemma ?lang
         WHERE {
+            ?lexicon lime:entry ?s ;
+                     lime:language ?lang .
             ?s a ontolex:LexicalEntry ;
                ontolex:canonicalForm/ontolex:writtenRep ?lemma ;
                decomp:subTerm ?prefix .

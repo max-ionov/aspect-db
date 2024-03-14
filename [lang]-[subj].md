@@ -6,7 +6,7 @@
     </thead>
     <tr v-for="row in results">
     <td v-for="(col, name) in row">
-        <a :href="col.val" v-if="col.type !== 'Literal'">{{ col.val }}</a>
+        <a target="_blank" :href="col.val" v-if="col.type !== 'Literal'">{{ col.val }}</a>
         <span v-else>{{ col.val }}</span>
     </td>
     </tr>
@@ -14,16 +14,9 @@
 </div>
 
 <script setup>
-import {QueryEngine} from "@comunica/query-sparql"; 
 import {useData} from "vitepress";
-import {onMounted, ref} from "vue"; 
-import {getDescribeResults} from "./services/sparql";
 
-const sparql = new QueryEngine();
-const { basePrefix, endpoints, params } = useData().page.value;
-const results = ref([]);
-
-const uri = `${basePrefix}${params.lang}-${params.subj}`;
-getDescribeResults(sparql, uri, endpoints).then((result) => { results.value = result; });
+const { params } = useData().page.value;
+const results = params.triples;
 
 </script>

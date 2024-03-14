@@ -1,5 +1,5 @@
 import { QueryEngine } from "@comunica/query-sparql";
-import { getQueryResults } from "./services/sparql";
+import { getQueryResults, getDescribeResults } from "./services/sparql";
 import { getUserConfig } from "./config/config";
 
 export default {
@@ -24,7 +24,8 @@ export default {
                 results.push({
                     params: {
                         subj: parts[1],
-                        lang: parts[0]
+                        lang: parts[0],
+                        triples: await getDescribeResults(sparql, s['uri'].val, endpoints)
                     }
                 })
             }
