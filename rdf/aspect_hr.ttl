@@ -4546,3499 +4546,3499 @@
             morph:target "za" ] .
 
 :analizirati_cf a ontolex:Form ;
-    ontolex:writtenRep "analizirati"@hrv .
+    ontolex:writtenRep "analizirati" .
 
 :arčiti_cf a ontolex:Form ;
-    ontolex:writtenRep "arčiti"@hrv .
+    ontolex:writtenRep "arčiti" .
 
 :bajati_cf a ontolex:Form ;
-    ontolex:writtenRep "bajati"@hrv .
+    ontolex:writtenRep "bajati" .
 
 :bančiti_cf a ontolex:Form ;
-    ontolex:writtenRep "bančiti"@hrv .
+    ontolex:writtenRep "bančiti" .
 
 :barabiti_cf a ontolex:Form ;
-    ontolex:writtenRep "barabiti"@hrv .
+    ontolex:writtenRep "barabiti" .
 
 :bariti_cf a ontolex:Form ;
-    ontolex:writtenRep "bariti"@hrv .
+    ontolex:writtenRep "bariti" .
 
 :bauljati_cf a ontolex:Form ;
-    ontolex:writtenRep "bauljati"@hrv .
+    ontolex:writtenRep "bauljati" .
 
 :baviti_cf a ontolex:Form ;
-    ontolex:writtenRep "baviti"@hrv .
+    ontolex:writtenRep "baviti" .
 
 :bazati_cf a ontolex:Form ;
-    ontolex:writtenRep "bazati"@hrv .
+    ontolex:writtenRep "bazati" .
 
 :bdjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "bdjeti"@hrv .
+    ontolex:writtenRep "bdjeti" .
 
 :besjediti_cf a ontolex:Form ;
-    ontolex:writtenRep "besjediti"@hrv .
+    ontolex:writtenRep "besjediti" .
 
 :bećariti_cf a ontolex:Form ;
-    ontolex:writtenRep "bećariti"@hrv .
+    ontolex:writtenRep "bećariti" .
 
 :biti_cf a ontolex:Form ;
-    ontolex:writtenRep "biti"@hrv .
+    ontolex:writtenRep "biti" .
 
 :blagovati_cf a ontolex:Form ;
-    ontolex:writtenRep "blagovati"@hrv .
+    ontolex:writtenRep "blagovati" .
 
 :blanjati_cf a ontolex:Form ;
-    ontolex:writtenRep "blanjati"@hrv .
+    ontolex:writtenRep "blanjati" .
 
 :blebetati_cf a ontolex:Form ;
-    ontolex:writtenRep "blebetati"@hrv .
+    ontolex:writtenRep "blebetati" .
 
 :blejati_cf a ontolex:Form ;
-    ontolex:writtenRep "blejati"@hrv .
+    ontolex:writtenRep "blejati" .
 
 :blijedjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "blijedjeti"@hrv .
+    ontolex:writtenRep "blijedjeti" .
 
 :bljeskati_cf a ontolex:Form ;
-    ontolex:writtenRep "bljeskati"@hrv .
+    ontolex:writtenRep "bljeskati" .
 
 :blokirati_cf a ontolex:Form ;
-    ontolex:writtenRep "blokirati"@hrv .
+    ontolex:writtenRep "blokirati" .
 
 :bolovati_cf a ontolex:Form ;
-    ontolex:writtenRep "bolovati"@hrv .
+    ontolex:writtenRep "bolovati" .
 
 :boraviti_cf a ontolex:Form ;
-    ontolex:writtenRep "boraviti"@hrv .
+    ontolex:writtenRep "boraviti" .
 
 :bosti_cf a ontolex:Form ;
-    ontolex:writtenRep "bosti"@hrv .
+    ontolex:writtenRep "bosti" .
 
 :braniti_cf a ontolex:Form ;
-    ontolex:writtenRep "braniti"@hrv .
+    ontolex:writtenRep "braniti" .
 
 :brati_cf a ontolex:Form ;
-    ontolex:writtenRep "brati"@hrv .
+    ontolex:writtenRep "brati" .
 
 :brijati_cf a ontolex:Form ;
-    ontolex:writtenRep "brijati"@hrv .
+    ontolex:writtenRep "brijati" .
 
 :brojati_cf a ontolex:Form ;
-    ontolex:writtenRep "brojati"@hrv .
+    ontolex:writtenRep "brojati" .
 
 :brojiti_cf a ontolex:Form ;
-    ontolex:writtenRep "brojiti"@hrv .
+    ontolex:writtenRep "brojiti" .
 
 :brujati_cf a ontolex:Form ;
-    ontolex:writtenRep "brujati"@hrv .
+    ontolex:writtenRep "brujati" .
 
 :brusiti_cf a ontolex:Form ;
-    ontolex:writtenRep "brusiti"@hrv .
+    ontolex:writtenRep "brusiti" .
 
 :brzati_cf a ontolex:Form ;
-    ontolex:writtenRep "brzati"@hrv .
+    ontolex:writtenRep "brzati" .
 
 :brčkati_cf a ontolex:Form ;
-    ontolex:writtenRep "brčkati"@hrv .
+    ontolex:writtenRep "brčkati" .
 
 :buditi_cf a ontolex:Form ;
-    ontolex:writtenRep "buditi"@hrv .
+    ontolex:writtenRep "buditi" .
 
 :buncati_cf a ontolex:Form ;
-    ontolex:writtenRep "buncati"@hrv .
+    ontolex:writtenRep "buncati" .
 
 :bušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "bušiti"@hrv .
+    ontolex:writtenRep "bušiti" .
 
 :cavtjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "cavtjeti"@hrv .
+    ontolex:writtenRep "cavtjeti" .
 
 :cijediti_cf a ontolex:Form ;
-    ontolex:writtenRep "cijediti"@hrv .
+    ontolex:writtenRep "cijediti" .
 
 :cijeniti_cf a ontolex:Form ;
-    ontolex:writtenRep "cijeniti"@hrv .
+    ontolex:writtenRep "cijeniti" .
 
 :cijepati_cf a ontolex:Form ;
-    ontolex:writtenRep "cijepati"@hrv .
+    ontolex:writtenRep "cijepati" .
 
 :cijepiti_cf a ontolex:Form ;
-    ontolex:writtenRep "cijepiti"@hrv .
+    ontolex:writtenRep "cijepiti" .
 
 :cirkulirati_cf a ontolex:Form ;
-    ontolex:writtenRep "cirkulirati"@hrv .
+    ontolex:writtenRep "cirkulirati" .
 
 :cunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "cunjati"@hrv .
+    ontolex:writtenRep "cunjati" .
 
 :curiti_cf a ontolex:Form ;
-    ontolex:writtenRep "curiti"@hrv .
+    ontolex:writtenRep "curiti" .
 
 :cvasti_cf a ontolex:Form ;
-    ontolex:writtenRep "cvasti"@hrv .
+    ontolex:writtenRep "cvasti" .
 
 :cviliti_cf a ontolex:Form ;
-    ontolex:writtenRep "cviliti"@hrv .
+    ontolex:writtenRep "cviliti" .
 
 :cviljeti_cf a ontolex:Form ;
-    ontolex:writtenRep "cviljeti"@hrv .
+    ontolex:writtenRep "cviljeti" .
 
 :cvjetati_cf a ontolex:Form ;
-    ontolex:writtenRep "cvjetati"@hrv .
+    ontolex:writtenRep "cvjetati" .
 
 :cvokotati_cf a ontolex:Form ;
-    ontolex:writtenRep "cvokotati"@hrv .
+    ontolex:writtenRep "cvokotati" .
 
 :cvrkutati_cf a ontolex:Form ;
-    ontolex:writtenRep "cvrkutati"@hrv .
+    ontolex:writtenRep "cvrkutati" .
 
 :dahtati_cf a ontolex:Form ;
-    ontolex:writtenRep "dahtati"@hrv .
+    ontolex:writtenRep "dahtati" .
 
 :dangubiti_cf a ontolex:Form ;
-    ontolex:writtenRep "dangubiti"@hrv .
+    ontolex:writtenRep "dangubiti" .
 
 :de_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "de-"@hrv .
+    ontolex:writtenRep "de-" .
 
 :defilirati_cf a ontolex:Form ;
-    ontolex:writtenRep "defilirati"@hrv .
+    ontolex:writtenRep "defilirati" .
 
 :derati_cf a ontolex:Form ;
-    ontolex:writtenRep "derati"@hrv .
+    ontolex:writtenRep "derati" .
 
 :deverati_cf a ontolex:Form ;
-    ontolex:writtenRep "deverati"@hrv .
+    ontolex:writtenRep "deverati" .
 
 :dinstati_cf a ontolex:Form ;
-    ontolex:writtenRep "dinstati"@hrv .
+    ontolex:writtenRep "dinstati" .
 
 :dis_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "dis-"@hrv .
+    ontolex:writtenRep "dis-" .
 
 :disati_cf a ontolex:Form ;
-    ontolex:writtenRep "disati"@hrv .
+    ontolex:writtenRep "disati" .
 
 :diskutirati_cf a ontolex:Form ;
-    ontolex:writtenRep "diskutirati"@hrv .
+    ontolex:writtenRep "diskutirati" .
 
 :divaniti_cf a ontolex:Form ;
-    ontolex:writtenRep "divaniti"@hrv .
+    ontolex:writtenRep "divaniti" .
 
 :do_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "do-"@hrv .
+    ontolex:writtenRep "do-" .
 
 :drati_cf a ontolex:Form ;
-    ontolex:writtenRep "drati"@hrv .
+    ontolex:writtenRep "drati" .
 
 :dreždati_cf a ontolex:Form ;
-    ontolex:writtenRep "dreždati"@hrv .
+    ontolex:writtenRep "dreždati" .
 
 :drijemati_cf a ontolex:Form ;
-    ontolex:writtenRep "drijemati"@hrv .
+    ontolex:writtenRep "drijemati" .
 
 :drijeti_cf a ontolex:Form ;
-    ontolex:writtenRep "drijeti"@hrv .
+    ontolex:writtenRep "drijeti" .
 
 :drmati_cf a ontolex:Form ;
-    ontolex:writtenRep "drmati"@hrv .
+    ontolex:writtenRep "drmati" .
 
 :drmusati_cf a ontolex:Form ;
-    ontolex:writtenRep "drmusati"@hrv .
+    ontolex:writtenRep "drmusati" .
 
 :drndati_cf a ontolex:Form ;
-    ontolex:writtenRep "drndati"@hrv .
+    ontolex:writtenRep "drndati" .
 
 :držati_cf a ontolex:Form ;
-    ontolex:writtenRep "držati"@hrv .
+    ontolex:writtenRep "držati" .
 
 :dubiti_cf a ontolex:Form ;
-    ontolex:writtenRep "dubiti"@hrv .
+    ontolex:writtenRep "dubiti" .
 
 :duljiti_cf a ontolex:Form ;
-    ontolex:writtenRep "duljiti"@hrv .
+    ontolex:writtenRep "duljiti" .
 
 :dupsti_cf a ontolex:Form ;
-    ontolex:writtenRep "dupsti"@hrv .
+    ontolex:writtenRep "dupsti" .
 
 :dužiti_cf a ontolex:Form ;
-    ontolex:writtenRep "dužiti"@hrv .
+    ontolex:writtenRep "dužiti" .
 
 :džarati_cf a ontolex:Form ;
-    ontolex:writtenRep "džarati"@hrv .
+    ontolex:writtenRep "džarati" .
 
 :džilitati_cf a ontolex:Form ;
-    ontolex:writtenRep "džilitati"@hrv .
+    ontolex:writtenRep "džilitati" .
 
 :fijukati_cf a ontolex:Form ;
-    ontolex:writtenRep "fijukati"@hrv .
+    ontolex:writtenRep "fijukati" .
 
 :fikariti_cf a ontolex:Form ;
-    ontolex:writtenRep "fikariti"@hrv .
+    ontolex:writtenRep "fikariti" .
 
 :funkcionirati_cf a ontolex:Form ;
-    ontolex:writtenRep "funkcionirati"@hrv .
+    ontolex:writtenRep "funkcionirati" .
 
 :furati_cf a ontolex:Form ;
-    ontolex:writtenRep "furati"@hrv .
+    ontolex:writtenRep "furati" .
 
 :fućkati_cf a ontolex:Form ;
-    ontolex:writtenRep "fućkati"@hrv .
+    ontolex:writtenRep "fućkati" .
 
 :gacati_cf a ontolex:Form ;
-    ontolex:writtenRep "gacati"@hrv .
+    ontolex:writtenRep "gacati" .
 
 :gajiti_cf a ontolex:Form ;
-    ontolex:writtenRep "gajiti"@hrv .
+    ontolex:writtenRep "gajiti" .
 
 :galopirati_cf a ontolex:Form ;
-    ontolex:writtenRep "galopirati"@hrv .
+    ontolex:writtenRep "galopirati" .
 
 :gaziti_cf a ontolex:Form ;
-    ontolex:writtenRep "gaziti"@hrv .
+    ontolex:writtenRep "gaziti" .
 
 :gegati_cf a ontolex:Form ;
-    ontolex:writtenRep "gegati"@hrv .
+    ontolex:writtenRep "gegati" .
 
 :gegucati_cf a ontolex:Form ;
-    ontolex:writtenRep "gegucati"@hrv .
+    ontolex:writtenRep "gegucati" .
 
 :gladiti_cf a ontolex:Form ;
-    ontolex:writtenRep "gladiti"@hrv .
+    ontolex:writtenRep "gladiti" .
 
 :glasati_cf a ontolex:Form ;
-    ontolex:writtenRep "glasati"@hrv .
+    ontolex:writtenRep "glasati" .
 
 :gledati_cf a ontolex:Form ;
-    ontolex:writtenRep "gledati"@hrv .
+    ontolex:writtenRep "gledati" .
 
 :glumiti_cf a ontolex:Form ;
-    ontolex:writtenRep "glumiti"@hrv .
+    ontolex:writtenRep "glumiti" .
 
 :gnati_cf a ontolex:Form ;
-    ontolex:writtenRep "gnati"@hrv .
+    ontolex:writtenRep "gnati" .
 
 :gnjaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "gnjaviti"@hrv .
+    ontolex:writtenRep "gnjaviti" .
 
 :gnjeviti_cf a ontolex:Form ;
-    ontolex:writtenRep "gnjeviti"@hrv .
+    ontolex:writtenRep "gnjeviti" .
 
 :gnječiti_cf a ontolex:Form ;
-    ontolex:writtenRep "gnječiti"@hrv .
+    ontolex:writtenRep "gnječiti" .
 
 :goditi_cf a ontolex:Form ;
-    ontolex:writtenRep "goditi"@hrv .
+    ontolex:writtenRep "goditi" .
 
 :gojiti_cf a ontolex:Form ;
-    ontolex:writtenRep "gojiti"@hrv .
+    ontolex:writtenRep "gojiti" .
 
 :gorjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "gorjeti"@hrv .
+    ontolex:writtenRep "gorjeti" .
 
 :gostiti_cf a ontolex:Form ;
-    ontolex:writtenRep "gostiti"@hrv .
+    ontolex:writtenRep "gostiti" .
 
 :govoriti_cf a ontolex:Form ;
-    ontolex:writtenRep "govoriti"@hrv .
+    ontolex:writtenRep "govoriti" .
 
 :grabiti_cf a ontolex:Form ;
-    ontolex:writtenRep "grabiti"@hrv .
+    ontolex:writtenRep "grabiti" .
 
 :grabuljati_cf a ontolex:Form ;
-    ontolex:writtenRep "grabuljati"@hrv .
+    ontolex:writtenRep "grabuljati" .
 
 :graditi_cf a ontolex:Form ;
-    ontolex:writtenRep "graditi"@hrv .
+    ontolex:writtenRep "graditi" .
 
 :grijati_cf a ontolex:Form ;
-    ontolex:writtenRep "grijati"@hrv .
+    ontolex:writtenRep "grijati" .
 
 :gristi_cf a ontolex:Form ;
-    ontolex:writtenRep "gristi"@hrv .
+    ontolex:writtenRep "gristi" .
 
 :gruntati_cf a ontolex:Form ;
-    ontolex:writtenRep "gruntati"@hrv .
+    ontolex:writtenRep "gruntati" .
 
 :gruvati_cf a ontolex:Form ;
-    ontolex:writtenRep "gruvati"@hrv .
+    ontolex:writtenRep "gruvati" .
 
 :grušati_cf a ontolex:Form ;
-    ontolex:writtenRep "grušati"@hrv .
+    ontolex:writtenRep "grušati" .
 
 :gukati_cf a ontolex:Form ;
-    ontolex:writtenRep "gukati"@hrv .
+    ontolex:writtenRep "gukati" .
 
 :guliti_cf a ontolex:Form ;
-    ontolex:writtenRep "guliti"@hrv .
+    ontolex:writtenRep "guliti" .
 
 :gunđati_cf a ontolex:Form ;
-    ontolex:writtenRep "gunđati"@hrv .
+    ontolex:writtenRep "gunđati" .
 
 :gurati_cf a ontolex:Form ;
-    ontolex:writtenRep "gurati"@hrv .
+    ontolex:writtenRep "gurati" .
 
 :gurkati_cf a ontolex:Form ;
-    ontolex:writtenRep "gurkati"@hrv .
+    ontolex:writtenRep "gurkati" .
 
 :gutati_cf a ontolex:Form ;
-    ontolex:writtenRep "gutati"@hrv .
+    ontolex:writtenRep "gutati" .
 
 :gušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "gušiti"@hrv .
+    ontolex:writtenRep "gušiti" .
 
 :harčiti_cf a ontolex:Form ;
-    ontolex:writtenRep "harčiti"@hrv .
+    ontolex:writtenRep "harčiti" .
 
 :hesapiti_cf a ontolex:Form ;
-    ontolex:writtenRep "hesapiti"@hrv .
+    ontolex:writtenRep "hesapiti" .
 
 :hladiti_cf a ontolex:Form ;
-    ontolex:writtenRep "hladiti"@hrv .
+    ontolex:writtenRep "hladiti" .
 
 :hladnjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "hladnjeti"@hrv .
+    ontolex:writtenRep "hladnjeti" .
 
 :hodati_cf a ontolex:Form ;
-    ontolex:writtenRep "hodati"@hrv .
+    ontolex:writtenRep "hodati" .
 
 :hramati_cf a ontolex:Form ;
-    ontolex:writtenRep "hramati"@hrv .
+    ontolex:writtenRep "hramati" .
 
 :hraniti_cf a ontolex:Form ;
-    ontolex:writtenRep "hraniti"@hrv .
+    ontolex:writtenRep "hraniti" .
 
 :htjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "htjeti"@hrv .
+    ontolex:writtenRep "htjeti" .
 
 :hujati_cf a ontolex:Form ;
-    ontolex:writtenRep "hujati"@hrv .
+    ontolex:writtenRep "hujati" .
 
 :huktati_cf a ontolex:Form ;
-    ontolex:writtenRep "huktati"@hrv .
+    ontolex:writtenRep "huktati" .
 
 :hunjkati_cf a ontolex:Form ;
-    ontolex:writtenRep "hunjkati"@hrv .
+    ontolex:writtenRep "hunjkati" .
 
 :igrati_cf a ontolex:Form ;
-    ontolex:writtenRep "igrati"@hrv .
+    ontolex:writtenRep "igrati" .
 
 :iskati_cf a ontolex:Form ;
-    ontolex:writtenRep "iskati"@hrv .
+    ontolex:writtenRep "iskati" .
 
 :iz_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "iz-"@hrv .
+    ontolex:writtenRep "iz-" .
 
 :ići_cf a ontolex:Form ;
-    ontolex:writtenRep "ići"@hrv .
+    ontolex:writtenRep "ići" .
 
 :jahati_cf a ontolex:Form ;
-    ontolex:writtenRep "jahati"@hrv .
+    ontolex:writtenRep "jahati" .
 
 :jarmiti_cf a ontolex:Form ;
-    ontolex:writtenRep "jarmiti"@hrv .
+    ontolex:writtenRep "jarmiti" .
 
 :jačati_cf a ontolex:Form ;
-    ontolex:writtenRep "jačati"@hrv .
+    ontolex:writtenRep "jačati" .
 
 :jašiti_cf a ontolex:Form ;
-    ontolex:writtenRep "jašiti"@hrv .
+    ontolex:writtenRep "jašiti" .
 
 :jecati_cf a ontolex:Form ;
-    ontolex:writtenRep "jecati"@hrv .
+    ontolex:writtenRep "jecati" .
 
 :jediti_cf a ontolex:Form ;
-    ontolex:writtenRep "jediti"@hrv .
+    ontolex:writtenRep "jediti" .
 
 :jedriti_cf a ontolex:Form ;
-    ontolex:writtenRep "jedriti"@hrv .
+    ontolex:writtenRep "jedriti" .
 
 :jesti_cf a ontolex:Form ;
-    ontolex:writtenRep "jesti"@hrv .
+    ontolex:writtenRep "jesti" .
 
 :jezditi_cf a ontolex:Form ;
-    ontolex:writtenRep "jezditi"@hrv .
+    ontolex:writtenRep "jezditi" .
 
 :ječati_cf a ontolex:Form ;
-    ontolex:writtenRep "ječati"@hrv .
+    ontolex:writtenRep "ječati" .
 
 :juriti_cf a ontolex:Form ;
-    ontolex:writtenRep "juriti"@hrv .
+    ontolex:writtenRep "juriti" .
 
 :jurišati_cf a ontolex:Form ;
-    ontolex:writtenRep "jurišati"@hrv .
+    ontolex:writtenRep "jurišati" .
 
 :kaditi_cf a ontolex:Form ;
-    ontolex:writtenRep "kaditi"@hrv .
+    ontolex:writtenRep "kaditi" .
 
 :kajati_cf a ontolex:Form ;
-    ontolex:writtenRep "kajati"@hrv .
+    ontolex:writtenRep "kajati" .
 
 :kaniti_cf a ontolex:Form ;
-    ontolex:writtenRep "kaniti"@hrv .
+    ontolex:writtenRep "kaniti" .
 
 :kantati_cf a ontolex:Form ;
-    ontolex:writtenRep "kantati"@hrv .
+    ontolex:writtenRep "kantati" .
 
 :kapati_cf a ontolex:Form ;
-    ontolex:writtenRep "kapati"@hrv .
+    ontolex:writtenRep "kapati" .
 
 :kapljati_cf a ontolex:Form ;
-    ontolex:writtenRep "kapljati"@hrv .
+    ontolex:writtenRep "kapljati" .
 
 :kartati_cf a ontolex:Form ;
-    ontolex:writtenRep "kartati"@hrv .
+    ontolex:writtenRep "kartati" .
 
 :kasati_cf a ontolex:Form ;
-    ontolex:writtenRep "kasati"@hrv .
+    ontolex:writtenRep "kasati" .
 
 :kaskati_cf a ontolex:Form ;
-    ontolex:writtenRep "kaskati"@hrv .
+    ontolex:writtenRep "kaskati" .
 
 :kačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "kačiti"@hrv .
+    ontolex:writtenRep "kačiti" .
 
 :kašljati_cf a ontolex:Form ;
-    ontolex:writtenRep "kašljati"@hrv .
+    ontolex:writtenRep "kašljati" .
 
 :kisnuti_cf a ontolex:Form ;
-    ontolex:writtenRep "kisnuti"@hrv .
+    ontolex:writtenRep "kisnuti" .
 
 :klackati_cf a ontolex:Form ;
-    ontolex:writtenRep "klackati"@hrv .
+    ontolex:writtenRep "klackati" .
 
 :klasati_cf a ontolex:Form ;
-    ontolex:writtenRep "klasati"@hrv .
+    ontolex:writtenRep "klasati" .
 
 :klati_cf a ontolex:Form ;
-    ontolex:writtenRep "klati"@hrv .
+    ontolex:writtenRep "klati" .
 
 :klecati_cf a ontolex:Form ;
-    ontolex:writtenRep "klecati"@hrv .
+    ontolex:writtenRep "klecati" .
 
 :klepetati_cf a ontolex:Form ;
-    ontolex:writtenRep "klepetati"@hrv .
+    ontolex:writtenRep "klepetati" .
 
 :kleti_cf a ontolex:Form ;
-    ontolex:writtenRep "kleti"@hrv .
+    ontolex:writtenRep "kleti" .
 
 :klijati_cf a ontolex:Form ;
-    ontolex:writtenRep "klijati"@hrv .
+    ontolex:writtenRep "klijati" .
 
 :klizati_cf a ontolex:Form ;
-    ontolex:writtenRep "klizati"@hrv .
+    ontolex:writtenRep "klizati" .
 
 :kliziti_cf a ontolex:Form ;
-    ontolex:writtenRep "kliziti"@hrv .
+    ontolex:writtenRep "kliziti" .
 
 :kljuvati_cf a ontolex:Form ;
-    ontolex:writtenRep "kljuvati"@hrv .
+    ontolex:writtenRep "kljuvati" .
 
 :ključati_cf a ontolex:Form ;
-    ontolex:writtenRep "ključati"@hrv .
+    ontolex:writtenRep "ključati" .
 
 :kloniti_cf a ontolex:Form ;
-    ontolex:writtenRep "kloniti"@hrv .
+    ontolex:writtenRep "kloniti" .
 
 :knjižiti_cf a ontolex:Form ;
-    ontolex:writtenRep "knjižiti"@hrv .
+    ontolex:writtenRep "knjižiti" .
 
 :kockati_cf a ontolex:Form ;
-    ontolex:writtenRep "kockati"@hrv .
+    ontolex:writtenRep "kockati" .
 
 :komandirati_cf a ontolex:Form ;
-    ontolex:writtenRep "komandirati"@hrv .
+    ontolex:writtenRep "komandirati" .
 
 :komešati_cf a ontolex:Form ;
-    ontolex:writtenRep "komešati"@hrv .
+    ontolex:writtenRep "komešati" .
 
 :kontrolirati_cf a ontolex:Form ;
-    ontolex:writtenRep "kontrolirati"@hrv .
+    ontolex:writtenRep "kontrolirati" .
 
 :kopati_cf a ontolex:Form ;
-    ontolex:writtenRep "kopati"@hrv .
+    ontolex:writtenRep "kopati" .
 
 :kopkati_cf a ontolex:Form ;
-    ontolex:writtenRep "kopkati"@hrv .
+    ontolex:writtenRep "kopkati" .
 
 :kopčati_cf a ontolex:Form ;
-    ontolex:writtenRep "kopčati"@hrv .
+    ontolex:writtenRep "kopčati" .
 
 :koračati_cf a ontolex:Form ;
-    ontolex:writtenRep "koračati"@hrv .
+    ontolex:writtenRep "koračati" .
 
 :kotrljati_cf a ontolex:Form ;
-    ontolex:writtenRep "kotrljati"@hrv .
+    ontolex:writtenRep "kotrljati" .
 
 :koturati_cf a ontolex:Form ;
-    ontolex:writtenRep "koturati"@hrv .
+    ontolex:writtenRep "koturati" .
 
 :kovati_cf a ontolex:Form ;
-    ontolex:writtenRep "kovati"@hrv .
+    ontolex:writtenRep "kovati" .
 
 :kočiti_cf a ontolex:Form ;
-    ontolex:writtenRep "kočiti"@hrv .
+    ontolex:writtenRep "kočiti" .
 
 :koškati_cf a ontolex:Form ;
-    ontolex:writtenRep "koškati"@hrv .
+    ontolex:writtenRep "koškati" .
 
 :krasti_cf a ontolex:Form ;
-    ontolex:writtenRep "krasti"@hrv .
+    ontolex:writtenRep "krasti" .
 
 :kraviti_cf a ontolex:Form ;
-    ontolex:writtenRep "kraviti"@hrv .
+    ontolex:writtenRep "kraviti" .
 
 :kreketati_cf a ontolex:Form ;
-    ontolex:writtenRep "kreketati"@hrv .
+    ontolex:writtenRep "kreketati" .
 
 :kresati_cf a ontolex:Form ;
-    ontolex:writtenRep "kresati"@hrv .
+    ontolex:writtenRep "kresati" .
 
 :kreštati_cf a ontolex:Form ;
-    ontolex:writtenRep "kreštati"@hrv .
+    ontolex:writtenRep "kreštati" .
 
 :krhati_cf a ontolex:Form ;
-    ontolex:writtenRep "krhati"@hrv .
+    ontolex:writtenRep "krhati" .
 
 :krijumčariti_cf a ontolex:Form ;
-    ontolex:writtenRep "krijumčariti"@hrv .
+    ontolex:writtenRep "krijumčariti" .
 
 :kriti_cf a ontolex:Form ;
-    ontolex:writtenRep "kriti"@hrv .
+    ontolex:writtenRep "kriti" .
 
 :krivudati_cf a ontolex:Form ;
-    ontolex:writtenRep "krivudati"@hrv .
+    ontolex:writtenRep "krivudati" .
 
 :krkljati_cf a ontolex:Form ;
-    ontolex:writtenRep "krkljati"@hrv .
+    ontolex:writtenRep "krkljati" .
 
 :krnjiti_cf a ontolex:Form ;
-    ontolex:writtenRep "krnjiti"@hrv .
+    ontolex:writtenRep "krnjiti" .
 
 :krojiti_cf a ontolex:Form ;
-    ontolex:writtenRep "krojiti"@hrv .
+    ontolex:writtenRep "krojiti" .
 
 :krstariti_cf a ontolex:Form ;
-    ontolex:writtenRep "krstariti"@hrv .
+    ontolex:writtenRep "krstariti" .
 
 :krvariti_cf a ontolex:Form ;
-    ontolex:writtenRep "krvariti"@hrv .
+    ontolex:writtenRep "krvariti" .
 
 :krvaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "krvaviti"@hrv .
+    ontolex:writtenRep "krvaviti" .
 
 :krčiti_cf a ontolex:Form ;
-    ontolex:writtenRep "krčiti"@hrv .
+    ontolex:writtenRep "krčiti" .
 
 :krčkati_cf a ontolex:Form ;
-    ontolex:writtenRep "krčkati"@hrv .
+    ontolex:writtenRep "krčkati" .
 
 :kršiti_cf a ontolex:Form ;
-    ontolex:writtenRep "kršiti"@hrv .
+    ontolex:writtenRep "kršiti" .
 
 :kucati_cf a ontolex:Form ;
-    ontolex:writtenRep "kucati"@hrv .
+    ontolex:writtenRep "kucati" .
 
 :kuhati_cf a ontolex:Form ;
-    ontolex:writtenRep "kuhati"@hrv .
+    ontolex:writtenRep "kuhati" .
 
 :kukati_cf a ontolex:Form ;
-    ontolex:writtenRep "kukati"@hrv .
+    ontolex:writtenRep "kukati" .
 
 :kuljati_cf a ontolex:Form ;
-    ontolex:writtenRep "kuljati"@hrv .
+    ontolex:writtenRep "kuljati" .
 
 :kunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "kunjati"@hrv .
+    ontolex:writtenRep "kunjati" .
 
 :kupiti_cf a ontolex:Form ;
-    ontolex:writtenRep "kupiti"@hrv .
+    ontolex:writtenRep "kupiti" .
 
 :kuražiti_cf a ontolex:Form ;
-    ontolex:writtenRep "kuražiti"@hrv .
+    ontolex:writtenRep "kuražiti" .
 
 :kurvati_cf a ontolex:Form ;
-    ontolex:writtenRep "kurvati"@hrv .
+    ontolex:writtenRep "kurvati" .
 
 :kušati_cf a ontolex:Form ;
-    ontolex:writtenRep "kušati"@hrv .
+    ontolex:writtenRep "kušati" .
 
 :kužiti_cf a ontolex:Form ;
-    ontolex:writtenRep "kužiti"@hrv .
+    ontolex:writtenRep "kužiti" .
 
 :kvasiti_cf a ontolex:Form ;
-    ontolex:writtenRep "kvasiti"@hrv .
+    ontolex:writtenRep "kvasiti" .
 
 :kvačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "kvačiti"@hrv .
+    ontolex:writtenRep "kvačiti" .
 
 :lagati_cf a ontolex:Form ;
-    ontolex:writtenRep "lagati"@hrv .
+    ontolex:writtenRep "lagati" .
 
 :lajati_cf a ontolex:Form ;
-    ontolex:writtenRep "lajati"@hrv .
+    ontolex:writtenRep "lajati" .
 
 :laprdati_cf a ontolex:Form ;
-    ontolex:writtenRep "laprdati"@hrv .
+    ontolex:writtenRep "laprdati" .
 
 :lebdjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "lebdjeti"@hrv .
+    ontolex:writtenRep "lebdjeti" .
 
 :lediti_cf a ontolex:Form ;
-    ontolex:writtenRep "lediti"@hrv .
+    ontolex:writtenRep "lediti" .
 
 :lepršati_cf a ontolex:Form ;
-    ontolex:writtenRep "lepršati"@hrv .
+    ontolex:writtenRep "lepršati" .
 
 :letjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "letjeti"@hrv .
+    ontolex:writtenRep "letjeti" .
 
 :ležati_cf a ontolex:Form ;
-    ontolex:writtenRep "ležati"@hrv .
+    ontolex:writtenRep "ležati" .
 
 :lijepiti_cf a ontolex:Form ;
-    ontolex:writtenRep "lijepiti"@hrv .
+    ontolex:writtenRep "lijepiti" .
 
 :likovati_cf a ontolex:Form ;
-    ontolex:writtenRep "likovati"@hrv .
+    ontolex:writtenRep "likovati" .
 
 :listati_cf a ontolex:Form ;
-    ontolex:writtenRep "listati"@hrv .
+    ontolex:writtenRep "listati" .
 
 :liti_cf a ontolex:Form ;
-    ontolex:writtenRep "liti"@hrv .
+    ontolex:writtenRep "liti" .
 
 :ljubiti_cf a ontolex:Form ;
-    ontolex:writtenRep "ljubiti"@hrv .
+    ontolex:writtenRep "ljubiti" .
 
 :ljuljati_cf a ontolex:Form ;
-    ontolex:writtenRep "ljuljati"@hrv .
+    ontolex:writtenRep "ljuljati" .
 
 :ljutiti_cf a ontolex:Form ;
-    ontolex:writtenRep "ljutiti"@hrv .
+    ontolex:writtenRep "ljutiti" .
 
 :lokati_cf a ontolex:Form ;
-    ontolex:writtenRep "lokati"@hrv .
+    ontolex:writtenRep "lokati" .
 
 :lomiti_cf a ontolex:Form ;
-    ontolex:writtenRep "lomiti"@hrv .
+    ontolex:writtenRep "lomiti" .
 
 :ložiti_cf a ontolex:Form ;
-    ontolex:writtenRep "ložiti"@hrv .
+    ontolex:writtenRep "ložiti" .
 
 :lumpovati_cf a ontolex:Form ;
-    ontolex:writtenRep "lumpovati"@hrv .
+    ontolex:writtenRep "lumpovati" .
 
 :lunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "lunjati"@hrv .
+    ontolex:writtenRep "lunjati" .
 
 :lupati_cf a ontolex:Form ;
-    ontolex:writtenRep "lupati"@hrv .
+    ontolex:writtenRep "lupati" .
 
 :lutati_cf a ontolex:Form ;
-    ontolex:writtenRep "lutati"@hrv .
+    ontolex:writtenRep "lutati" .
 
 :lučiti_cf a ontolex:Form ;
-    ontolex:writtenRep "lučiti"@hrv .
+    ontolex:writtenRep "lučiti" .
 
 :magliti_cf a ontolex:Form ;
-    ontolex:writtenRep "magliti"@hrv .
+    ontolex:writtenRep "magliti" .
 
 :mamiti_cf a ontolex:Form ;
-    ontolex:writtenRep "mamiti"@hrv .
+    ontolex:writtenRep "mamiti" .
 
 :marširati_cf a ontolex:Form ;
-    ontolex:writtenRep "marširati"@hrv .
+    ontolex:writtenRep "marširati" .
 
 :maziti_cf a ontolex:Form ;
-    ontolex:writtenRep "maziti"@hrv .
+    ontolex:writtenRep "maziti" .
 
 :maštati_cf a ontolex:Form ;
-    ontolex:writtenRep "maštati"@hrv .
+    ontolex:writtenRep "maštati" .
 
 :mekšati_cf a ontolex:Form ;
-    ontolex:writtenRep "mekšati"@hrv .
+    ontolex:writtenRep "mekšati" .
 
 :migoljiti_cf a ontolex:Form ;
-    ontolex:writtenRep "migoljiti"@hrv .
+    ontolex:writtenRep "migoljiti" .
 
 :mijesiti_cf a ontolex:Form ;
-    ontolex:writtenRep "mijesiti"@hrv .
+    ontolex:writtenRep "mijesiti" .
 
 :miješati_cf a ontolex:Form ;
-    ontolex:writtenRep "miješati"@hrv .
+    ontolex:writtenRep "miješati" .
 
 :miljeti_cf a ontolex:Form ;
-    ontolex:writtenRep "miljeti"@hrv .
+    ontolex:writtenRep "miljeti" .
 
 :milovati_cf a ontolex:Form ;
-    ontolex:writtenRep "milovati"@hrv .
+    ontolex:writtenRep "milovati" .
 
 :mimo_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "mimo-"@hrv .
+    ontolex:writtenRep "mimo-" .
 
 :misliti_cf a ontolex:Form ;
-    ontolex:writtenRep "misliti"@hrv .
+    ontolex:writtenRep "misliti" .
 
 :mjeriti_cf a ontolex:Form ;
-    ontolex:writtenRep "mjeriti"@hrv .
+    ontolex:writtenRep "mjeriti" .
 
 :moliti_cf a ontolex:Form ;
-    ontolex:writtenRep "moliti"@hrv .
+    ontolex:writtenRep "moliti" .
 
 :moriti_cf a ontolex:Form ;
-    ontolex:writtenRep "moriti"@hrv .
+    ontolex:writtenRep "moriti" .
 
 :motati_cf a ontolex:Form ;
-    ontolex:writtenRep "motati"@hrv .
+    ontolex:writtenRep "motati" .
 
 :motriti_cf a ontolex:Form ;
-    ontolex:writtenRep "motriti"@hrv .
+    ontolex:writtenRep "motriti" .
 
 :mozgati_cf a ontolex:Form ;
-    ontolex:writtenRep "mozgati"@hrv .
+    ontolex:writtenRep "mozgati" .
 
 :moći_cf a ontolex:Form ;
-    ontolex:writtenRep "moći"@hrv .
+    ontolex:writtenRep "moći" .
 
 :močiti_cf a ontolex:Form ;
-    ontolex:writtenRep "močiti"@hrv .
+    ontolex:writtenRep "močiti" .
 
 :mrdati_cf a ontolex:Form ;
-    ontolex:writtenRep "mrdati"@hrv .
+    ontolex:writtenRep "mrdati" .
 
 :mrljati_cf a ontolex:Form ;
-    ontolex:writtenRep "mrljati"@hrv .
+    ontolex:writtenRep "mrljati" .
 
 :mrmljati_cf a ontolex:Form ;
-    ontolex:writtenRep "mrmljati"@hrv .
+    ontolex:writtenRep "mrmljati" .
 
 :mrmoljiti_cf a ontolex:Form ;
-    ontolex:writtenRep "mrmoljiti"@hrv .
+    ontolex:writtenRep "mrmoljiti" .
 
 :mrmoriti_cf a ontolex:Form ;
-    ontolex:writtenRep "mrmoriti"@hrv .
+    ontolex:writtenRep "mrmoriti" .
 
 :mrsiti_cf a ontolex:Form ;
-    ontolex:writtenRep "mrsiti"@hrv .
+    ontolex:writtenRep "mrsiti" .
 
 :mrznuti_cf a ontolex:Form ;
-    ontolex:writtenRep "mrznuti"@hrv .
+    ontolex:writtenRep "mrznuti" .
 
 :mucati_cf a ontolex:Form ;
-    ontolex:writtenRep "mucati"@hrv .
+    ontolex:writtenRep "mucati" .
 
 :mumljati_cf a ontolex:Form ;
-    ontolex:writtenRep "mumljati"@hrv .
+    ontolex:writtenRep "mumljati" .
 
 :munđati_cf a ontolex:Form ;
-    ontolex:writtenRep "munđati"@hrv .
+    ontolex:writtenRep "munđati" .
 
 :muvati_cf a ontolex:Form ;
-    ontolex:writtenRep "muvati"@hrv .
+    ontolex:writtenRep "muvati" .
 
 :mućkati_cf a ontolex:Form ;
-    ontolex:writtenRep "mućkati"@hrv .
+    ontolex:writtenRep "mućkati" .
 
 :mučiti_cf a ontolex:Form ;
-    ontolex:writtenRep "mučiti"@hrv .
+    ontolex:writtenRep "mučiti" .
 
 :na_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "na-"@hrv .
+    ontolex:writtenRep "na-" .
 
 :nad_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "nad-"@hrv .
+    ontolex:writtenRep "nad-" .
 
 :nizati_cf a ontolex:Form ;
-    ontolex:writtenRep "nizati"@hrv .
+    ontolex:writtenRep "nizati" .
 
 :nišaniti_cf a ontolex:Form ;
-    ontolex:writtenRep "nišaniti"@hrv .
+    ontolex:writtenRep "nišaniti" .
 
 :njihati_cf a ontolex:Form ;
-    ontolex:writtenRep "njihati"@hrv .
+    ontolex:writtenRep "njihati" .
 
 :njušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "njušiti"@hrv .
+    ontolex:writtenRep "njušiti" .
 
 :njuškati_cf a ontolex:Form ;
-    ontolex:writtenRep "njuškati"@hrv .
+    ontolex:writtenRep "njuškati" .
 
 :nosati_cf a ontolex:Form ;
-    ontolex:writtenRep "nosati"@hrv .
+    ontolex:writtenRep "nosati" .
 
 :o_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "o-"@hrv .
+    ontolex:writtenRep "o-" .
 
 :ob_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "ob-"@hrv .
+    ontolex:writtenRep "ob-" .
 
 :od_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "od-"@hrv .
+    ontolex:writtenRep "od-" .
 
 :odbauljati_cf a ontolex:Form ;
-    ontolex:writtenRep "odbauljati"@hrv .
+    ontolex:writtenRep "odbauljati" .
 
 :odbaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "odbaviti"@hrv .
+    ontolex:writtenRep "odbaviti" .
 
 :odbiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odbiti"@hrv .
+    ontolex:writtenRep "odbiti" .
 
 :odblanjati_cf a ontolex:Form ;
-    ontolex:writtenRep "odblanjati"@hrv .
+    ontolex:writtenRep "odblanjati" .
 
 :odblokirati_cf a ontolex:Form ;
-    ontolex:writtenRep "odblokirati"@hrv .
+    ontolex:writtenRep "odblokirati" .
 
 :odbolovati_cf a ontolex:Form ;
-    ontolex:writtenRep "odbolovati"@hrv .
+    ontolex:writtenRep "odbolovati" .
 
 :odbraniti_cf a ontolex:Form ;
-    ontolex:writtenRep "odbraniti"@hrv .
+    ontolex:writtenRep "odbraniti" .
 
 :odbrati_cf a ontolex:Form ;
-    ontolex:writtenRep "odbrati"@hrv .
+    ontolex:writtenRep "odbrati" .
 
 :odbrojati_cf a ontolex:Form ;
-    ontolex:writtenRep "odbrojati"@hrv .
+    ontolex:writtenRep "odbrojati" .
 
 :odbrojiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odbrojiti"@hrv .
+    ontolex:writtenRep "odbrojiti" .
 
 :odbrujati_cf a ontolex:Form ;
-    ontolex:writtenRep "odbrujati"@hrv .
+    ontolex:writtenRep "odbrujati" .
 
 :odbrusiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odbrusiti"@hrv .
+    ontolex:writtenRep "odbrusiti" .
 
 :odbrzati_cf a ontolex:Form ;
-    ontolex:writtenRep "odbrzati"@hrv .
+    ontolex:writtenRep "odbrzati" .
 
 :odcijepiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odcijepiti"@hrv .
+    ontolex:writtenRep "odcijepiti" .
 
 :odgacati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgacati"@hrv .
+    ontolex:writtenRep "odgacati" .
 
 :odgajiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odgajiti"@hrv .
+    ontolex:writtenRep "odgajiti" .
 
 :odgalopirati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgalopirati"@hrv .
+    ontolex:writtenRep "odgalopirati" .
 
 :odgegati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgegati"@hrv .
+    ontolex:writtenRep "odgegati" .
 
 :odgegucati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgegucati"@hrv .
+    ontolex:writtenRep "odgegucati" .
 
 :odglasati_cf a ontolex:Form ;
-    ontolex:writtenRep "odglasati"@hrv .
+    ontolex:writtenRep "odglasati" .
 
 :odgledati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgledati"@hrv .
+    ontolex:writtenRep "odgledati" .
 
 :odglumiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odglumiti"@hrv .
+    ontolex:writtenRep "odglumiti" .
 
 :odgoditi_cf a ontolex:Form ;
-    ontolex:writtenRep "odgoditi"@hrv .
+    ontolex:writtenRep "odgoditi" .
 
 :odgojiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odgojiti"@hrv .
+    ontolex:writtenRep "odgojiti" .
 
 :odgovoriti_cf a ontolex:Form ;
-    ontolex:writtenRep "odgovoriti"@hrv .
+    ontolex:writtenRep "odgovoriti" .
 
 :odgrabiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odgrabiti"@hrv .
+    ontolex:writtenRep "odgrabiti" .
 
 :odgraditi_cf a ontolex:Form ;
-    ontolex:writtenRep "odgraditi"@hrv .
+    ontolex:writtenRep "odgraditi" .
 
 :odgrijati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgrijati"@hrv .
+    ontolex:writtenRep "odgrijati" .
 
 :odgristi_cf a ontolex:Form ;
-    ontolex:writtenRep "odgristi"@hrv .
+    ontolex:writtenRep "odgristi" .
 
 :odguliti_cf a ontolex:Form ;
-    ontolex:writtenRep "odguliti"@hrv .
+    ontolex:writtenRep "odguliti" .
 
 :odgunđati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgunđati"@hrv .
+    ontolex:writtenRep "odgunđati" .
 
 :odgurati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgurati"@hrv .
+    ontolex:writtenRep "odgurati" .
 
 :odgurkati_cf a ontolex:Form ;
-    ontolex:writtenRep "odgurkati"@hrv .
+    ontolex:writtenRep "odgurkati" .
 
 :odgušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odgušiti"@hrv .
+    ontolex:writtenRep "odgušiti" .
 
 :odhramati_cf a ontolex:Form ;
-    ontolex:writtenRep "odhramati"@hrv .
+    ontolex:writtenRep "odhramati" .
 
 :odhraniti_cf a ontolex:Form ;
-    ontolex:writtenRep "odhraniti"@hrv .
+    ontolex:writtenRep "odhraniti" .
 
 :odigrati_cf a ontolex:Form ;
-    ontolex:writtenRep "odigrati"@hrv .
+    ontolex:writtenRep "odigrati" .
 
 :odići_cf a ontolex:Form ;
-    ontolex:writtenRep "odići"@hrv .
+    ontolex:writtenRep "odići" .
 
 :odjahati_cf a ontolex:Form ;
-    ontolex:writtenRep "odjahati"@hrv .
+    ontolex:writtenRep "odjahati" .
 
 :odjarmiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odjarmiti"@hrv .
+    ontolex:writtenRep "odjarmiti" .
 
 :odjačati_cf a ontolex:Form ;
-    ontolex:writtenRep "odjačati"@hrv .
+    ontolex:writtenRep "odjačati" .
 
 :odjašiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odjašiti"@hrv .
+    ontolex:writtenRep "odjašiti" .
 
 :odjediti_cf a ontolex:Form ;
-    ontolex:writtenRep "odjediti"@hrv .
+    ontolex:writtenRep "odjediti" .
 
 :odjedriti_cf a ontolex:Form ;
-    ontolex:writtenRep "odjedriti"@hrv .
+    ontolex:writtenRep "odjedriti" .
 
 :odjezditi_cf a ontolex:Form ;
-    ontolex:writtenRep "odjezditi"@hrv .
+    ontolex:writtenRep "odjezditi" .
 
 :odjuriti_cf a ontolex:Form ;
-    ontolex:writtenRep "odjuriti"@hrv .
+    ontolex:writtenRep "odjuriti" .
 
 :odkaskati_cf a ontolex:Form ;
-    ontolex:writtenRep "odkaskati"@hrv .
+    ontolex:writtenRep "odkaskati" .
 
 :odlediti_cf a ontolex:Form ;
-    ontolex:writtenRep "odlediti"@hrv .
+    ontolex:writtenRep "odlediti" .
 
 :odlepršati_cf a ontolex:Form ;
-    ontolex:writtenRep "odlepršati"@hrv .
+    ontolex:writtenRep "odlepršati" .
 
 :odletjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "odletjeti"@hrv .
+    ontolex:writtenRep "odletjeti" .
 
 :odlijepiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odlijepiti"@hrv .
+    ontolex:writtenRep "odlijepiti" .
 
 :odlikovati_cf a ontolex:Form ;
-    ontolex:writtenRep "odlikovati"@hrv .
+    ontolex:writtenRep "odlikovati" .
 
 :odliti_cf a ontolex:Form ;
-    ontolex:writtenRep "odliti"@hrv .
+    ontolex:writtenRep "odliti" .
 
 :odljubiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odljubiti"@hrv .
+    ontolex:writtenRep "odljubiti" .
 
 :odljuljati_cf a ontolex:Form ;
-    ontolex:writtenRep "odljuljati"@hrv .
+    ontolex:writtenRep "odljuljati" .
 
 :odljutiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odljutiti"@hrv .
+    ontolex:writtenRep "odljutiti" .
 
 :odlomiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odlomiti"@hrv .
+    ontolex:writtenRep "odlomiti" .
 
 :odložiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odložiti"@hrv .
+    ontolex:writtenRep "odložiti" .
 
 :odlutati_cf a ontolex:Form ;
-    ontolex:writtenRep "odlutati"@hrv .
+    ontolex:writtenRep "odlutati" .
 
 :odlučiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odlučiti"@hrv .
+    ontolex:writtenRep "odlučiti" .
 
 :odmagliti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmagliti"@hrv .
+    ontolex:writtenRep "odmagliti" .
 
 :odmamiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmamiti"@hrv .
+    ontolex:writtenRep "odmamiti" .
 
 :odmarširati_cf a ontolex:Form ;
-    ontolex:writtenRep "odmarširati"@hrv .
+    ontolex:writtenRep "odmarširati" .
 
 :odmekšati_cf a ontolex:Form ;
-    ontolex:writtenRep "odmekšati"@hrv .
+    ontolex:writtenRep "odmekšati" .
 
 :odmiljeti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmiljeti"@hrv .
+    ontolex:writtenRep "odmiljeti" .
 
 :odmjeriti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmjeriti"@hrv .
+    ontolex:writtenRep "odmjeriti" .
 
 :odmoliti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmoliti"@hrv .
+    ontolex:writtenRep "odmoliti" .
 
 :odmoriti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmoriti"@hrv .
+    ontolex:writtenRep "odmoriti" .
 
 :odmotati_cf a ontolex:Form ;
-    ontolex:writtenRep "odmotati"@hrv .
+    ontolex:writtenRep "odmotati" .
 
 :odmoći_cf a ontolex:Form ;
-    ontolex:writtenRep "odmoći"@hrv .
+    ontolex:writtenRep "odmoći" .
 
 :odmočiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmočiti"@hrv .
+    ontolex:writtenRep "odmočiti" .
 
 :odmrmljati_cf a ontolex:Form ;
-    ontolex:writtenRep "odmrmljati"@hrv .
+    ontolex:writtenRep "odmrmljati" .
 
 :odmrsiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmrsiti"@hrv .
+    ontolex:writtenRep "odmrsiti" .
 
 :odmrznuti_cf a ontolex:Form ;
-    ontolex:writtenRep "odmrznuti"@hrv .
+    ontolex:writtenRep "odmrznuti" .
 
 :odnjihati_cf a ontolex:Form ;
-    ontolex:writtenRep "odnjihati"@hrv .
+    ontolex:writtenRep "odnjihati" .
 
 :odorati_cf a ontolex:Form ;
-    ontolex:writtenRep "odorati"@hrv .
+    ontolex:writtenRep "odorati" .
 
 :odputovati_cf a ontolex:Form ;
-    ontolex:writtenRep "odputovati"@hrv .
+    ontolex:writtenRep "odputovati" .
 
 :odraditi_cf a ontolex:Form ;
-    ontolex:writtenRep "odraditi"@hrv .
+    ontolex:writtenRep "odraditi" .
 
 :odraniti_cf a ontolex:Form ;
-    ontolex:writtenRep "odraniti"@hrv .
+    ontolex:writtenRep "odraniti" .
 
 :odrasti_cf a ontolex:Form ;
-    ontolex:writtenRep "odrasti"@hrv .
+    ontolex:writtenRep "odrasti" .
 
 :odreagirati_cf a ontolex:Form ;
-    ontolex:writtenRep "odreagirati"@hrv .
+    ontolex:writtenRep "odreagirati" .
 
 :odrediti_cf a ontolex:Form ;
-    ontolex:writtenRep "odrediti"@hrv .
+    ontolex:writtenRep "odrediti" .
 
 :odrezati_cf a ontolex:Form ;
-    ontolex:writtenRep "odrezati"@hrv .
+    ontolex:writtenRep "odrezati" .
 
 :odrobijati_cf a ontolex:Form ;
-    ontolex:writtenRep "odrobijati"@hrv .
+    ontolex:writtenRep "odrobijati" .
 
 :odrobiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odrobiti"@hrv .
+    ontolex:writtenRep "odrobiti" .
 
 :odrobovati_cf a ontolex:Form ;
-    ontolex:writtenRep "odrobovati"@hrv .
+    ontolex:writtenRep "odrobovati" .
 
 :odroniti_cf a ontolex:Form ;
-    ontolex:writtenRep "odroniti"@hrv .
+    ontolex:writtenRep "odroniti" .
 
 :odrubiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odrubiti"@hrv .
+    ontolex:writtenRep "odrubiti" .
 
 :odručiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odručiti"@hrv .
+    ontolex:writtenRep "odručiti" .
 
 :odsanjati_cf a ontolex:Form ;
-    ontolex:writtenRep "odsanjati"@hrv .
+    ontolex:writtenRep "odsanjati" .
 
 :odsedlati_cf a ontolex:Form ;
-    ontolex:writtenRep "odsedlati"@hrv .
+    ontolex:writtenRep "odsedlati" .
 
 :odseliti_cf a ontolex:Form ;
-    ontolex:writtenRep "odseliti"@hrv .
+    ontolex:writtenRep "odseliti" .
 
 :odsipati_cf a ontolex:Form ;
-    ontolex:writtenRep "odsipati"@hrv .
+    ontolex:writtenRep "odsipati" .
 
 :odsjedjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "odsjedjeti"@hrv .
+    ontolex:writtenRep "odsjedjeti" .
 
 :odsjeći_cf a ontolex:Form ;
-    ontolex:writtenRep "odsjeći"@hrv .
+    ontolex:writtenRep "odsjeći" .
 
 :odskakutati_cf a ontolex:Form ;
-    ontolex:writtenRep "odskakutati"@hrv .
+    ontolex:writtenRep "odskakutati" .
 
 :odskitati_cf a ontolex:Form ;
-    ontolex:writtenRep "odskitati"@hrv .
+    ontolex:writtenRep "odskitati" .
 
 :odslikati_cf a ontolex:Form ;
-    ontolex:writtenRep "odslikati"@hrv .
+    ontolex:writtenRep "odslikati" .
 
 :odslušati_cf a ontolex:Form ;
-    ontolex:writtenRep "odslušati"@hrv .
+    ontolex:writtenRep "odslušati" .
 
 :odslužiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odslužiti"@hrv .
+    ontolex:writtenRep "odslužiti" .
 
 :odsmijati_cf a ontolex:Form ;
-    ontolex:writtenRep "odsmijati"@hrv .
+    ontolex:writtenRep "odsmijati" .
 
 :odsmucati_cf a ontolex:Form ;
-    ontolex:writtenRep "odsmucati"@hrv .
+    ontolex:writtenRep "odsmucati" .
 
 :odspavati_cf a ontolex:Form ;
-    ontolex:writtenRep "odspavati"@hrv .
+    ontolex:writtenRep "odspavati" .
 
 :odsrditi_cf a ontolex:Form ;
-    ontolex:writtenRep "odsrditi"@hrv .
+    ontolex:writtenRep "odsrditi" .
 
 :odstajati_cf a ontolex:Form ;
-    ontolex:writtenRep "odstajati"@hrv .
+    ontolex:writtenRep "odstajati" .
 
 :odstrići_cf a ontolex:Form ;
-    ontolex:writtenRep "odstrići"@hrv .
+    ontolex:writtenRep "odstrići" .
 
 :odsuditi_cf a ontolex:Form ;
-    ontolex:writtenRep "odsuditi"@hrv .
+    ontolex:writtenRep "odsuditi" .
 
 :odsukati_cf a ontolex:Form ;
-    ontolex:writtenRep "odsukati"@hrv .
+    ontolex:writtenRep "odsukati" .
 
 :odsvirati_cf a ontolex:Form ;
-    ontolex:writtenRep "odsvirati"@hrv .
+    ontolex:writtenRep "odsvirati" .
 
 :odteretiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odteretiti"@hrv .
+    ontolex:writtenRep "odteretiti" .
 
 :odteturati_cf a ontolex:Form ;
-    ontolex:writtenRep "odteturati"@hrv .
+    ontolex:writtenRep "odteturati" .
 
 :odučiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odučiti"@hrv .
+    ontolex:writtenRep "odučiti" .
 
 :odužiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odužiti"@hrv .
+    ontolex:writtenRep "odužiti" .
 
 :odvaditi_cf a ontolex:Form ;
-    ontolex:writtenRep "odvaditi"@hrv .
+    ontolex:writtenRep "odvaditi" .
 
 :odvagati_cf a ontolex:Form ;
-    ontolex:writtenRep "odvagati"@hrv .
+    ontolex:writtenRep "odvagati" .
 
 :odvaliti_cf a ontolex:Form ;
-    ontolex:writtenRep "odvaliti"@hrv .
+    ontolex:writtenRep "odvaliti" .
 
 :odvaljati_cf a ontolex:Form ;
-    ontolex:writtenRep "odvaljati"@hrv .
+    ontolex:writtenRep "odvaljati" .
 
 :odvažiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odvažiti"@hrv .
+    ontolex:writtenRep "odvažiti" .
 
 :odverglati_cf a ontolex:Form ;
-    ontolex:writtenRep "odverglati"@hrv .
+    ontolex:writtenRep "odverglati" .
 
 :odveslati_cf a ontolex:Form ;
-    ontolex:writtenRep "odveslati"@hrv .
+    ontolex:writtenRep "odveslati" .
 
 :odvesti_cf a ontolex:Form ;
-    ontolex:writtenRep "odvesti"@hrv .
+    ontolex:writtenRep "odvesti" .
 
 :odvezati_cf a ontolex:Form ;
-    ontolex:writtenRep "odvezati"@hrv .
+    ontolex:writtenRep "odvezati" .
 
 :odvidati_cf a ontolex:Form ;
-    ontolex:writtenRep "odvidati"@hrv .
+    ontolex:writtenRep "odvidati" .
 
 :odviti_cf a ontolex:Form ;
-    ontolex:writtenRep "odviti"@hrv .
+    ontolex:writtenRep "odviti" .
 
 :odvrludati_cf a ontolex:Form ;
-    ontolex:writtenRep "odvrludati"@hrv .
+    ontolex:writtenRep "odvrludati" .
 
 :odvrsti_cf a ontolex:Form ;
-    ontolex:writtenRep "odvrsti"@hrv .
+    ontolex:writtenRep "odvrsti" .
 
 :odvući_cf a ontolex:Form ;
-    ontolex:writtenRep "odvući"@hrv .
+    ontolex:writtenRep "odvući" .
 
 :odzračiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odzračiti"@hrv .
+    ontolex:writtenRep "odzračiti" .
 
 :odzujati_cf a ontolex:Form ;
-    ontolex:writtenRep "odzujati"@hrv .
+    ontolex:writtenRep "odzujati" .
 
 :odzvati_cf a ontolex:Form ;
-    ontolex:writtenRep "odzvati"@hrv .
+    ontolex:writtenRep "odzvati" .
 
 :odzviždati_cf a ontolex:Form ;
-    ontolex:writtenRep "odzviždati"@hrv .
+    ontolex:writtenRep "odzviždati" .
 
 :odzvoniti_cf a ontolex:Form ;
-    ontolex:writtenRep "odzvoniti"@hrv .
+    ontolex:writtenRep "odzvoniti" .
 
 :odzvrjati_cf a ontolex:Form ;
-    ontolex:writtenRep "odzvrjati"@hrv .
+    ontolex:writtenRep "odzvrjati" .
 
 :odčitati_cf a ontolex:Form ;
-    ontolex:writtenRep "odčitati"@hrv .
+    ontolex:writtenRep "odčitati" .
 
 :odšaliti_cf a ontolex:Form ;
-    ontolex:writtenRep "odšaliti"@hrv .
+    ontolex:writtenRep "odšaliti" .
 
 :odšaptati_cf a ontolex:Form ;
-    ontolex:writtenRep "odšaptati"@hrv .
+    ontolex:writtenRep "odšaptati" .
 
 :odšaputati_cf a ontolex:Form ;
-    ontolex:writtenRep "odšaputati"@hrv .
+    ontolex:writtenRep "odšaputati" .
 
 :odšarafiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odšarafiti"@hrv .
+    ontolex:writtenRep "odšarafiti" .
 
 :odšepesati_cf a ontolex:Form ;
-    ontolex:writtenRep "odšepesati"@hrv .
+    ontolex:writtenRep "odšepesati" .
 
 :odšetati_cf a ontolex:Form ;
-    ontolex:writtenRep "odšetati"@hrv .
+    ontolex:writtenRep "odšetati" .
 
 :odšiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odšiti"@hrv .
+    ontolex:writtenRep "odšiti" .
 
 :odšnirati_cf a ontolex:Form ;
-    ontolex:writtenRep "odšnirati"@hrv .
+    ontolex:writtenRep "odšnirati" .
 
 :odšrafiti_cf a ontolex:Form ;
-    ontolex:writtenRep "odšrafiti"@hrv .
+    ontolex:writtenRep "odšrafiti" .
 
 :odštampati_cf a ontolex:Form ;
-    ontolex:writtenRep "odštampati"@hrv .
+    ontolex:writtenRep "odštampati" .
 
 :odšuljati_cf a ontolex:Form ;
-    ontolex:writtenRep "odšuljati"@hrv .
+    ontolex:writtenRep "odšuljati" .
 
 :odšunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "odšunjati"@hrv .
+    ontolex:writtenRep "odšunjati" .
 
 :odšutjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "odšutjeti"@hrv .
+    ontolex:writtenRep "odšutjeti" .
 
 :odživjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "odživjeti"@hrv .
+    ontolex:writtenRep "odživjeti" .
 
 :orati_cf a ontolex:Form ;
-    ontolex:writtenRep "orati"@hrv .
+    ontolex:writtenRep "orati" .
 
 :ot_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "ot-"@hrv .
+    ontolex:writtenRep "ot-" .
 
 :otcijepiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otcijepiti"@hrv .
+    ontolex:writtenRep "otcijepiti" .
 
 :otfijukati_cf a ontolex:Form ;
-    ontolex:writtenRep "otfijukati"@hrv .
+    ontolex:writtenRep "otfijukati" .
 
 :otfikariti_cf a ontolex:Form ;
-    ontolex:writtenRep "otfikariti"@hrv .
+    ontolex:writtenRep "otfikariti" .
 
 :othodati_cf a ontolex:Form ;
-    ontolex:writtenRep "othodati"@hrv .
+    ontolex:writtenRep "othodati" .
 
 :othraniti_cf a ontolex:Form ;
-    ontolex:writtenRep "othraniti"@hrv .
+    ontolex:writtenRep "othraniti" .
 
 :othujati_cf a ontolex:Form ;
-    ontolex:writtenRep "othujati"@hrv .
+    ontolex:writtenRep "othujati" .
 
 :otiskati_cf a ontolex:Form ;
-    ontolex:writtenRep "otiskati"@hrv .
+    ontolex:writtenRep "otiskati" .
 
 :otići_cf a ontolex:Form ;
-    ontolex:writtenRep "otići"@hrv .
+    ontolex:writtenRep "otići" .
 
 :otkajati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkajati"@hrv .
+    ontolex:writtenRep "otkajati" .
 
 :otkaniti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkaniti"@hrv .
+    ontolex:writtenRep "otkaniti" .
 
 :otkantati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkantati"@hrv .
+    ontolex:writtenRep "otkantati" .
 
 :otkapljati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkapljati"@hrv .
+    ontolex:writtenRep "otkapljati" .
 
 :otkasati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkasati"@hrv .
+    ontolex:writtenRep "otkasati" .
 
 :otkaskati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkaskati"@hrv .
+    ontolex:writtenRep "otkaskati" .
 
 :otkačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkačiti"@hrv .
+    ontolex:writtenRep "otkačiti" .
 
 :otklati_cf a ontolex:Form ;
-    ontolex:writtenRep "otklati"@hrv .
+    ontolex:writtenRep "otklati" .
 
 :otklecati_cf a ontolex:Form ;
-    ontolex:writtenRep "otklecati"@hrv .
+    ontolex:writtenRep "otklecati" .
 
 :otklepetati_cf a ontolex:Form ;
-    ontolex:writtenRep "otklepetati"@hrv .
+    ontolex:writtenRep "otklepetati" .
 
 :otklizati_cf a ontolex:Form ;
-    ontolex:writtenRep "otklizati"@hrv .
+    ontolex:writtenRep "otklizati" .
 
 :otključati_cf a ontolex:Form ;
-    ontolex:writtenRep "otključati"@hrv .
+    ontolex:writtenRep "otključati" .
 
 :otkloniti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkloniti"@hrv .
+    ontolex:writtenRep "otkloniti" .
 
 :otkomandirati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkomandirati"@hrv .
+    ontolex:writtenRep "otkomandirati" .
 
 :otkopati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkopati"@hrv .
+    ontolex:writtenRep "otkopati" .
 
 :otkopčati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkopčati"@hrv .
+    ontolex:writtenRep "otkopčati" .
 
 :otkoračati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkoračati"@hrv .
+    ontolex:writtenRep "otkoračati" .
 
 :otkotrljati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkotrljati"@hrv .
+    ontolex:writtenRep "otkotrljati" .
 
 :otkoturati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkoturati"@hrv .
+    ontolex:writtenRep "otkoturati" .
 
 :otkovati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkovati"@hrv .
+    ontolex:writtenRep "otkovati" .
 
 :otkočiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkočiti"@hrv .
+    ontolex:writtenRep "otkočiti" .
 
 :otkraviti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkraviti"@hrv .
+    ontolex:writtenRep "otkraviti" .
 
 :otkreketati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkreketati"@hrv .
+    ontolex:writtenRep "otkreketati" .
 
 :otkresati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkresati"@hrv .
+    ontolex:writtenRep "otkresati" .
 
 :otkriti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkriti"@hrv .
+    ontolex:writtenRep "otkriti" .
 
 :otkrnjiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkrnjiti"@hrv .
+    ontolex:writtenRep "otkrnjiti" .
 
 :otkrojiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkrojiti"@hrv .
+    ontolex:writtenRep "otkrojiti" .
 
 :otkrčiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkrčiti"@hrv .
+    ontolex:writtenRep "otkrčiti" .
 
 :otkršiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkršiti"@hrv .
+    ontolex:writtenRep "otkršiti" .
 
 :otkucati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkucati"@hrv .
+    ontolex:writtenRep "otkucati" .
 
 :otkukati_cf a ontolex:Form ;
-    ontolex:writtenRep "otkukati"@hrv .
+    ontolex:writtenRep "otkukati" .
 
 :otkupiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkupiti"@hrv .
+    ontolex:writtenRep "otkupiti" .
 
 :otkvačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otkvačiti"@hrv .
+    ontolex:writtenRep "otkvačiti" .
 
 :otparati_cf a ontolex:Form ;
-    ontolex:writtenRep "otparati"@hrv .
+    ontolex:writtenRep "otparati" .
 
 :otpasati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpasati"@hrv .
+    ontolex:writtenRep "otpasati" .
 
 :otpasti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpasti"@hrv .
+    ontolex:writtenRep "otpasti" .
 
 :otperjati_cf a ontolex:Form ;
-    ontolex:writtenRep "otperjati"@hrv .
+    ontolex:writtenRep "otperjati" .
 
 :otperjašiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otperjašiti"@hrv .
+    ontolex:writtenRep "otperjašiti" .
 
 :otpetljati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpetljati"@hrv .
+    ontolex:writtenRep "otpetljati" .
 
 :otpečatiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpečatiti"@hrv .
+    ontolex:writtenRep "otpečatiti" .
 
 :otpiliti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpiliti"@hrv .
+    ontolex:writtenRep "otpiliti" .
 
 :otpiriti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpiriti"@hrv .
+    ontolex:writtenRep "otpiriti" .
 
 :otpisati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpisati"@hrv .
+    ontolex:writtenRep "otpisati" .
 
 :otpiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpiti"@hrv .
+    ontolex:writtenRep "otpiti" .
 
 :otpizditi_cf a ontolex:Form ;
-    ontolex:writtenRep "otpizditi"@hrv .
+    ontolex:writtenRep "otpizditi" .
 
 :otpjevati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpjevati"@hrv .
+    ontolex:writtenRep "otpjevati" .
 
 :otpješačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpješačiti"@hrv .
+    ontolex:writtenRep "otpješačiti" .
 
 :otplakati_cf a ontolex:Form ;
-    ontolex:writtenRep "otplakati"@hrv .
+    ontolex:writtenRep "otplakati" .
 
 :otplamsati_cf a ontolex:Form ;
-    ontolex:writtenRep "otplamsati"@hrv .
+    ontolex:writtenRep "otplamsati" .
 
 :otplamtjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "otplamtjeti"@hrv .
+    ontolex:writtenRep "otplamtjeti" .
 
 :otplaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "otplaviti"@hrv .
+    ontolex:writtenRep "otplaviti" .
 
 :otplesati_cf a ontolex:Form ;
-    ontolex:writtenRep "otplesati"@hrv .
+    ontolex:writtenRep "otplesati" .
 
 :otplinuti_cf a ontolex:Form ;
-    ontolex:writtenRep "otplinuti"@hrv .
+    ontolex:writtenRep "otplinuti" .
 
 :otplivati_cf a ontolex:Form ;
-    ontolex:writtenRep "otplivati"@hrv .
+    ontolex:writtenRep "otplivati" .
 
 :otpljuvati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpljuvati"@hrv .
+    ontolex:writtenRep "otpljuvati" .
 
 :otploviti_cf a ontolex:Form ;
-    ontolex:writtenRep "otploviti"@hrv .
+    ontolex:writtenRep "otploviti" .
 
 :otplutati_cf a ontolex:Form ;
-    ontolex:writtenRep "otplutati"@hrv .
+    ontolex:writtenRep "otplutati" .
 
 :otpojati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpojati"@hrv .
+    ontolex:writtenRep "otpojati" .
 
 :otpostiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpostiti"@hrv .
+    ontolex:writtenRep "otpostiti" .
 
 :otpoštovati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpoštovati"@hrv .
+    ontolex:writtenRep "otpoštovati" .
 
 :otpratiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpratiti"@hrv .
+    ontolex:writtenRep "otpratiti" .
 
 :otpraviti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpraviti"@hrv .
+    ontolex:writtenRep "otpraviti" .
 
 :otprašiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otprašiti"@hrv .
+    ontolex:writtenRep "otprašiti" .
 
 :otpretati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpretati"@hrv .
+    ontolex:writtenRep "otpretati" .
 
 :otprtiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otprtiti"@hrv .
+    ontolex:writtenRep "otprtiti" .
 
 :otprtljati_cf a ontolex:Form ;
-    ontolex:writtenRep "otprtljati"@hrv .
+    ontolex:writtenRep "otprtljati" .
 
 :otpuhati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpuhati"@hrv .
+    ontolex:writtenRep "otpuhati" .
 
 :otputiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otputiti"@hrv .
+    ontolex:writtenRep "otputiti" .
 
 :otputovati_cf a ontolex:Form ;
-    ontolex:writtenRep "otputovati"@hrv .
+    ontolex:writtenRep "otputovati" .
 
 :otpuzati_cf a ontolex:Form ;
-    ontolex:writtenRep "otpuzati"@hrv .
+    ontolex:writtenRep "otpuzati" .
 
 :otpuziti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpuziti"@hrv .
+    ontolex:writtenRep "otpuziti" .
 
 :otpušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otpušiti"@hrv .
+    ontolex:writtenRep "otpušiti" .
 
 :otreskati_cf a ontolex:Form ;
-    ontolex:writtenRep "otreskati"@hrv .
+    ontolex:writtenRep "otreskati" .
 
 :otrovati_cf a ontolex:Form ;
-    ontolex:writtenRep "otrovati"@hrv .
+    ontolex:writtenRep "otrovati" .
 
 :otseliti_cf a ontolex:Form ;
-    ontolex:writtenRep "otseliti"@hrv .
+    ontolex:writtenRep "otseliti" .
 
 :otsjeći_cf a ontolex:Form ;
-    ontolex:writtenRep "otsjeći"@hrv .
+    ontolex:writtenRep "otsjeći" .
 
 :otskakutati_cf a ontolex:Form ;
-    ontolex:writtenRep "otskakutati"@hrv .
+    ontolex:writtenRep "otskakutati" .
 
 :otslužiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otslužiti"@hrv .
+    ontolex:writtenRep "otslužiti" .
 
 :otspavati_cf a ontolex:Form ;
-    ontolex:writtenRep "otspavati"@hrv .
+    ontolex:writtenRep "otspavati" .
 
 :otsvirati_cf a ontolex:Form ;
-    ontolex:writtenRep "otsvirati"@hrv .
+    ontolex:writtenRep "otsvirati" .
 
 :otumarati_cf a ontolex:Form ;
-    ontolex:writtenRep "otumarati"@hrv .
+    ontolex:writtenRep "otumarati" .
 
 :otužiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otužiti"@hrv .
+    ontolex:writtenRep "otužiti" .
 
 :otčepiti_cf a ontolex:Form ;
-    ontolex:writtenRep "otčepiti"@hrv .
+    ontolex:writtenRep "otčepiti" .
 
 :otčiniti_cf a ontolex:Form ;
-    ontolex:writtenRep "otčiniti"@hrv .
+    ontolex:writtenRep "otčiniti" .
 
 :otšaliti_cf a ontolex:Form ;
-    ontolex:writtenRep "otšaliti"@hrv .
+    ontolex:writtenRep "otšaliti" .
 
 :otšetati_cf a ontolex:Form ;
-    ontolex:writtenRep "otšetati"@hrv .
+    ontolex:writtenRep "otšetati" .
 
 :paradirati_cf a ontolex:Form ;
-    ontolex:writtenRep "paradirati"@hrv .
+    ontolex:writtenRep "paradirati" .
 
 :parati_cf a ontolex:Form ;
-    ontolex:writtenRep "parati"@hrv .
+    ontolex:writtenRep "parati" .
 
 :pasati_cf a ontolex:Form ;
-    ontolex:writtenRep "pasati"@hrv .
+    ontolex:writtenRep "pasati" .
 
 :pasirati_cf a ontolex:Form ;
-    ontolex:writtenRep "pasirati"@hrv .
+    ontolex:writtenRep "pasirati" .
 
 :pasti_cf a ontolex:Form ;
-    ontolex:writtenRep "pasti"@hrv .
+    ontolex:writtenRep "pasti" .
 
 :patiti_cf a ontolex:Form ;
-    ontolex:writtenRep "patiti"@hrv .
+    ontolex:writtenRep "patiti" .
 
 :perjati_cf a ontolex:Form ;
-    ontolex:writtenRep "perjati"@hrv .
+    ontolex:writtenRep "perjati" .
 
 :perjašiti_cf a ontolex:Form ;
-    ontolex:writtenRep "perjašiti"@hrv .
+    ontolex:writtenRep "perjašiti" .
 
 :peti_cf a ontolex:Form ;
-    ontolex:writtenRep "peti"@hrv .
+    ontolex:writtenRep "peti" .
 
 :petljati_cf a ontolex:Form ;
-    ontolex:writtenRep "petljati"@hrv .
+    ontolex:writtenRep "petljati" .
 
 :peći_cf a ontolex:Form ;
-    ontolex:writtenRep "peći"@hrv .
+    ontolex:writtenRep "peći" .
 
 :pečatiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pečatiti"@hrv .
+    ontolex:writtenRep "pečatiti" .
 
 :pijančiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pijančiti"@hrv .
+    ontolex:writtenRep "pijančiti" .
 
 :piliti_cf a ontolex:Form ;
-    ontolex:writtenRep "piliti"@hrv .
+    ontolex:writtenRep "piliti" .
 
 :pipati_cf a ontolex:Form ;
-    ontolex:writtenRep "pipati"@hrv .
+    ontolex:writtenRep "pipati" .
 
 :pipkati_cf a ontolex:Form ;
-    ontolex:writtenRep "pipkati"@hrv .
+    ontolex:writtenRep "pipkati" .
 
 :piriti_cf a ontolex:Form ;
-    ontolex:writtenRep "piriti"@hrv .
+    ontolex:writtenRep "piriti" .
 
 :pirjati_cf a ontolex:Form ;
-    ontolex:writtenRep "pirjati"@hrv .
+    ontolex:writtenRep "pirjati" .
 
 :pisati_cf a ontolex:Form ;
-    ontolex:writtenRep "pisati"@hrv .
+    ontolex:writtenRep "pisati" .
 
 :pitati_cf a ontolex:Form ;
-    ontolex:writtenRep "pitati"@hrv .
+    ontolex:writtenRep "pitati" .
 
 :piti_cf a ontolex:Form ;
-    ontolex:writtenRep "piti"@hrv .
+    ontolex:writtenRep "piti" .
 
 :pizditi_cf a ontolex:Form ;
-    ontolex:writtenRep "pizditi"@hrv .
+    ontolex:writtenRep "pizditi" .
 
 :pišati_cf a ontolex:Form ;
-    ontolex:writtenRep "pišati"@hrv .
+    ontolex:writtenRep "pišati" .
 
 :pištati_cf a ontolex:Form ;
-    ontolex:writtenRep "pištati"@hrv .
+    ontolex:writtenRep "pištati" .
 
 :pjevati_cf a ontolex:Form ;
-    ontolex:writtenRep "pjevati"@hrv .
+    ontolex:writtenRep "pjevati" .
 
 :pješačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pješačiti"@hrv .
+    ontolex:writtenRep "pješačiti" .
 
 :plakati_cf a ontolex:Form ;
-    ontolex:writtenRep "plakati"@hrv .
+    ontolex:writtenRep "plakati" .
 
 :plamsati_cf a ontolex:Form ;
-    ontolex:writtenRep "plamsati"@hrv .
+    ontolex:writtenRep "plamsati" .
 
 :plamtjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "plamtjeti"@hrv .
+    ontolex:writtenRep "plamtjeti" .
 
 :plaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "plaviti"@hrv .
+    ontolex:writtenRep "plaviti" .
 
 :plesati_cf a ontolex:Form ;
-    ontolex:writtenRep "plesati"@hrv .
+    ontolex:writtenRep "plesati" .
 
 :plesti_cf a ontolex:Form ;
-    ontolex:writtenRep "plesti"@hrv .
+    ontolex:writtenRep "plesti" .
 
 :plinuti_cf a ontolex:Form ;
-    ontolex:writtenRep "plinuti"@hrv .
+    ontolex:writtenRep "plinuti" .
 
 :plivati_cf a ontolex:Form ;
-    ontolex:writtenRep "plivati"@hrv .
+    ontolex:writtenRep "plivati" .
 
 :pljuvati_cf a ontolex:Form ;
-    ontolex:writtenRep "pljuvati"@hrv .
+    ontolex:writtenRep "pljuvati" .
 
 :ploviti_cf a ontolex:Form ;
-    ontolex:writtenRep "ploviti"@hrv .
+    ontolex:writtenRep "ploviti" .
 
 :plutati_cf a ontolex:Form ;
-    ontolex:writtenRep "plutati"@hrv .
+    ontolex:writtenRep "plutati" .
 
 :po_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "po-"@hrv .
+    ontolex:writtenRep "po-" .
 
 :pod_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "pod-"@hrv .
+    ontolex:writtenRep "pod-" .
 
 :pojati_cf a ontolex:Form ;
-    ontolex:writtenRep "pojati"@hrv .
+    ontolex:writtenRep "pojati" .
 
 :postiti_cf a ontolex:Form ;
-    ontolex:writtenRep "postiti"@hrv .
+    ontolex:writtenRep "postiti" .
 
 :poštovati_cf a ontolex:Form ;
-    ontolex:writtenRep "poštovati"@hrv .
+    ontolex:writtenRep "poštovati" .
 
 :prati_cf a ontolex:Form ;
-    ontolex:writtenRep "prati"@hrv .
+    ontolex:writtenRep "prati" .
 
 :pratiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pratiti"@hrv .
+    ontolex:writtenRep "pratiti" .
 
 :praviti_cf a ontolex:Form ;
-    ontolex:writtenRep "praviti"@hrv .
+    ontolex:writtenRep "praviti" .
 
 :prašiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prašiti"@hrv .
+    ontolex:writtenRep "prašiti" .
 
 :pre_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "pre-"@hrv .
+    ontolex:writtenRep "pre-" .
 
 :pred_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "pred-"@hrv .
+    ontolex:writtenRep "pred-" .
 
 :pretati_cf a ontolex:Form ;
-    ontolex:writtenRep "pretati"@hrv .
+    ontolex:writtenRep "pretati" .
 
 :pri_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "pri-"@hrv .
+    ontolex:writtenRep "pri-" .
 
 :pro_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "pro-"@hrv .
+    ontolex:writtenRep "pro-" .
 
 :proanalizirati_cf a ontolex:Form ;
-    ontolex:writtenRep "proanalizirati"@hrv .
+    ontolex:writtenRep "proanalizirati" .
 
 :proarčiti_cf a ontolex:Form ;
-    ontolex:writtenRep "proarčiti"@hrv .
+    ontolex:writtenRep "proarčiti" .
 
 :probajati_cf a ontolex:Form ;
-    ontolex:writtenRep "probajati"@hrv .
+    ontolex:writtenRep "probajati" .
 
 :probančiti_cf a ontolex:Form ;
-    ontolex:writtenRep "probančiti"@hrv .
+    ontolex:writtenRep "probančiti" .
 
 :probarabiti_cf a ontolex:Form ;
-    ontolex:writtenRep "probarabiti"@hrv .
+    ontolex:writtenRep "probarabiti" .
 
 :probariti_cf a ontolex:Form ;
-    ontolex:writtenRep "probariti"@hrv .
+    ontolex:writtenRep "probariti" .
 
 :probaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "probaviti"@hrv .
+    ontolex:writtenRep "probaviti" .
 
 :probazati_cf a ontolex:Form ;
-    ontolex:writtenRep "probazati"@hrv .
+    ontolex:writtenRep "probazati" .
 
 :probdjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "probdjeti"@hrv .
+    ontolex:writtenRep "probdjeti" .
 
 :probesjediti_cf a ontolex:Form ;
-    ontolex:writtenRep "probesjediti"@hrv .
+    ontolex:writtenRep "probesjediti" .
 
 :probećariti_cf a ontolex:Form ;
-    ontolex:writtenRep "probećariti"@hrv .
+    ontolex:writtenRep "probećariti" .
 
 :probiti_cf a ontolex:Form ;
-    ontolex:writtenRep "probiti"@hrv .
+    ontolex:writtenRep "probiti" .
 
 :problagovati_cf a ontolex:Form ;
-    ontolex:writtenRep "problagovati"@hrv .
+    ontolex:writtenRep "problagovati" .
 
 :problebetati_cf a ontolex:Form ;
-    ontolex:writtenRep "problebetati"@hrv .
+    ontolex:writtenRep "problebetati" .
 
 :problejati_cf a ontolex:Form ;
-    ontolex:writtenRep "problejati"@hrv .
+    ontolex:writtenRep "problejati" .
 
 :problijedjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "problijedjeti"@hrv .
+    ontolex:writtenRep "problijedjeti" .
 
 :probljeskati_cf a ontolex:Form ;
-    ontolex:writtenRep "probljeskati"@hrv .
+    ontolex:writtenRep "probljeskati" .
 
 :proboraviti_cf a ontolex:Form ;
-    ontolex:writtenRep "proboraviti"@hrv .
+    ontolex:writtenRep "proboraviti" .
 
 :probosti_cf a ontolex:Form ;
-    ontolex:writtenRep "probosti"@hrv .
+    ontolex:writtenRep "probosti" .
 
 :probrati_cf a ontolex:Form ;
-    ontolex:writtenRep "probrati"@hrv .
+    ontolex:writtenRep "probrati" .
 
 :probrijati_cf a ontolex:Form ;
-    ontolex:writtenRep "probrijati"@hrv .
+    ontolex:writtenRep "probrijati" .
 
 :probrčkati_cf a ontolex:Form ;
-    ontolex:writtenRep "probrčkati"@hrv .
+    ontolex:writtenRep "probrčkati" .
 
 :probuditi_cf a ontolex:Form ;
-    ontolex:writtenRep "probuditi"@hrv .
+    ontolex:writtenRep "probuditi" .
 
 :probuncati_cf a ontolex:Form ;
-    ontolex:writtenRep "probuncati"@hrv .
+    ontolex:writtenRep "probuncati" .
 
 :probušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "probušiti"@hrv .
+    ontolex:writtenRep "probušiti" .
 
 :procavtjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "procavtjeti"@hrv .
+    ontolex:writtenRep "procavtjeti" .
 
 :procijediti_cf a ontolex:Form ;
-    ontolex:writtenRep "procijediti"@hrv .
+    ontolex:writtenRep "procijediti" .
 
 :procijeniti_cf a ontolex:Form ;
-    ontolex:writtenRep "procijeniti"@hrv .
+    ontolex:writtenRep "procijeniti" .
 
 :procijepati_cf a ontolex:Form ;
-    ontolex:writtenRep "procijepati"@hrv .
+    ontolex:writtenRep "procijepati" .
 
 :procijepiti_cf a ontolex:Form ;
-    ontolex:writtenRep "procijepiti"@hrv .
+    ontolex:writtenRep "procijepiti" .
 
 :procirkulirati_cf a ontolex:Form ;
-    ontolex:writtenRep "procirkulirati"@hrv .
+    ontolex:writtenRep "procirkulirati" .
 
 :procunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "procunjati"@hrv .
+    ontolex:writtenRep "procunjati" .
 
 :procuriti_cf a ontolex:Form ;
-    ontolex:writtenRep "procuriti"@hrv .
+    ontolex:writtenRep "procuriti" .
 
 :procvasti_cf a ontolex:Form ;
-    ontolex:writtenRep "procvasti"@hrv .
+    ontolex:writtenRep "procvasti" .
 
 :procviljeti_cf a ontolex:Form ;
-    ontolex:writtenRep "procviljeti"@hrv .
+    ontolex:writtenRep "procviljeti" .
 
 :procvjetati_cf a ontolex:Form ;
-    ontolex:writtenRep "procvjetati"@hrv .
+    ontolex:writtenRep "procvjetati" .
 
 :procvokotati_cf a ontolex:Form ;
-    ontolex:writtenRep "procvokotati"@hrv .
+    ontolex:writtenRep "procvokotati" .
 
 :procvrkutati_cf a ontolex:Form ;
-    ontolex:writtenRep "procvrkutati"@hrv .
+    ontolex:writtenRep "procvrkutati" .
 
 :prodahtati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodahtati"@hrv .
+    ontolex:writtenRep "prodahtati" .
 
 :prodangubiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prodangubiti"@hrv .
+    ontolex:writtenRep "prodangubiti" .
 
 :prodefilirati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodefilirati"@hrv .
+    ontolex:writtenRep "prodefilirati" .
 
 :proderati_cf a ontolex:Form ;
-    ontolex:writtenRep "proderati"@hrv .
+    ontolex:writtenRep "proderati" .
 
 :prodeverati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodeverati"@hrv .
+    ontolex:writtenRep "prodeverati" .
 
 :prodinstati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodinstati"@hrv .
+    ontolex:writtenRep "prodinstati" .
 
 :prodisati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodisati"@hrv .
+    ontolex:writtenRep "prodisati" .
 
 :prodiskutirati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodiskutirati"@hrv .
+    ontolex:writtenRep "prodiskutirati" .
 
 :prodivaniti_cf a ontolex:Form ;
-    ontolex:writtenRep "prodivaniti"@hrv .
+    ontolex:writtenRep "prodivaniti" .
 
 :prodrati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodrati"@hrv .
+    ontolex:writtenRep "prodrati" .
 
 :prodreždati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodreždati"@hrv .
+    ontolex:writtenRep "prodreždati" .
 
 :prodrijemati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodrijemati"@hrv .
+    ontolex:writtenRep "prodrijemati" .
 
 :prodrijeti_cf a ontolex:Form ;
-    ontolex:writtenRep "prodrijeti"@hrv .
+    ontolex:writtenRep "prodrijeti" .
 
 :prodrmati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodrmati"@hrv .
+    ontolex:writtenRep "prodrmati" .
 
 :prodrmusati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodrmusati"@hrv .
+    ontolex:writtenRep "prodrmusati" .
 
 :prodrndati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodrndati"@hrv .
+    ontolex:writtenRep "prodrndati" .
 
 :prodržati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodržati"@hrv .
+    ontolex:writtenRep "prodržati" .
 
 :produbiti_cf a ontolex:Form ;
-    ontolex:writtenRep "produbiti"@hrv .
+    ontolex:writtenRep "produbiti" .
 
 :produljiti_cf a ontolex:Form ;
-    ontolex:writtenRep "produljiti"@hrv .
+    ontolex:writtenRep "produljiti" .
 
 :produpsti_cf a ontolex:Form ;
-    ontolex:writtenRep "produpsti"@hrv .
+    ontolex:writtenRep "produpsti" .
 
 :produžiti_cf a ontolex:Form ;
-    ontolex:writtenRep "produžiti"@hrv .
+    ontolex:writtenRep "produžiti" .
 
 :prodžarati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodžarati"@hrv .
+    ontolex:writtenRep "prodžarati" .
 
 :prodžilitati_cf a ontolex:Form ;
-    ontolex:writtenRep "prodžilitati"@hrv .
+    ontolex:writtenRep "prodžilitati" .
 
 :profunkcionirati_cf a ontolex:Form ;
-    ontolex:writtenRep "profunkcionirati"@hrv .
+    ontolex:writtenRep "profunkcionirati" .
 
 :profurati_cf a ontolex:Form ;
-    ontolex:writtenRep "profurati"@hrv .
+    ontolex:writtenRep "profurati" .
 
 :profućkati_cf a ontolex:Form ;
-    ontolex:writtenRep "profućkati"@hrv .
+    ontolex:writtenRep "profućkati" .
 
 :progaziti_cf a ontolex:Form ;
-    ontolex:writtenRep "progaziti"@hrv .
+    ontolex:writtenRep "progaziti" .
 
 :progladiti_cf a ontolex:Form ;
-    ontolex:writtenRep "progladiti"@hrv .
+    ontolex:writtenRep "progladiti" .
 
 :progledati_cf a ontolex:Form ;
-    ontolex:writtenRep "progledati"@hrv .
+    ontolex:writtenRep "progledati" .
 
 :prognati_cf a ontolex:Form ;
-    ontolex:writtenRep "prognati"@hrv .
+    ontolex:writtenRep "prognati" .
 
 :prognjaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "prognjaviti"@hrv .
+    ontolex:writtenRep "prognjaviti" .
 
 :prognjeviti_cf a ontolex:Form ;
-    ontolex:writtenRep "prognjeviti"@hrv .
+    ontolex:writtenRep "prognjeviti" .
 
 :prognječiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prognječiti"@hrv .
+    ontolex:writtenRep "prognječiti" .
 
 :progorjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "progorjeti"@hrv .
+    ontolex:writtenRep "progorjeti" .
 
 :progostiti_cf a ontolex:Form ;
-    ontolex:writtenRep "progostiti"@hrv .
+    ontolex:writtenRep "progostiti" .
 
 :progovoriti_cf a ontolex:Form ;
-    ontolex:writtenRep "progovoriti"@hrv .
+    ontolex:writtenRep "progovoriti" .
 
 :prograbuljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prograbuljati"@hrv .
+    ontolex:writtenRep "prograbuljati" .
 
 :progrijati_cf a ontolex:Form ;
-    ontolex:writtenRep "progrijati"@hrv .
+    ontolex:writtenRep "progrijati" .
 
 :progristi_cf a ontolex:Form ;
-    ontolex:writtenRep "progristi"@hrv .
+    ontolex:writtenRep "progristi" .
 
 :progruntati_cf a ontolex:Form ;
-    ontolex:writtenRep "progruntati"@hrv .
+    ontolex:writtenRep "progruntati" .
 
 :progruvati_cf a ontolex:Form ;
-    ontolex:writtenRep "progruvati"@hrv .
+    ontolex:writtenRep "progruvati" .
 
 :progrušati_cf a ontolex:Form ;
-    ontolex:writtenRep "progrušati"@hrv .
+    ontolex:writtenRep "progrušati" .
 
 :progukati_cf a ontolex:Form ;
-    ontolex:writtenRep "progukati"@hrv .
+    ontolex:writtenRep "progukati" .
 
 :progunđati_cf a ontolex:Form ;
-    ontolex:writtenRep "progunđati"@hrv .
+    ontolex:writtenRep "progunđati" .
 
 :progurati_cf a ontolex:Form ;
-    ontolex:writtenRep "progurati"@hrv .
+    ontolex:writtenRep "progurati" .
 
 :progutati_cf a ontolex:Form ;
-    ontolex:writtenRep "progutati"@hrv .
+    ontolex:writtenRep "progutati" .
 
 :proharčiti_cf a ontolex:Form ;
-    ontolex:writtenRep "proharčiti"@hrv .
+    ontolex:writtenRep "proharčiti" .
 
 :prohesapiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prohesapiti"@hrv .
+    ontolex:writtenRep "prohesapiti" .
 
 :prohladiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prohladiti"@hrv .
+    ontolex:writtenRep "prohladiti" .
 
 :prohladnjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "prohladnjeti"@hrv .
+    ontolex:writtenRep "prohladnjeti" .
 
 :prohodati_cf a ontolex:Form ;
-    ontolex:writtenRep "prohodati"@hrv .
+    ontolex:writtenRep "prohodati" .
 
 :prohtjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "prohtjeti"@hrv .
+    ontolex:writtenRep "prohtjeti" .
 
 :prohujati_cf a ontolex:Form ;
-    ontolex:writtenRep "prohujati"@hrv .
+    ontolex:writtenRep "prohujati" .
 
 :prohuktati_cf a ontolex:Form ;
-    ontolex:writtenRep "prohuktati"@hrv .
+    ontolex:writtenRep "prohuktati" .
 
 :prohunjkati_cf a ontolex:Form ;
-    ontolex:writtenRep "prohunjkati"@hrv .
+    ontolex:writtenRep "prohunjkati" .
 
 :proigrati_cf a ontolex:Form ;
-    ontolex:writtenRep "proigrati"@hrv .
+    ontolex:writtenRep "proigrati" .
 
 :projahati_cf a ontolex:Form ;
-    ontolex:writtenRep "projahati"@hrv .
+    ontolex:writtenRep "projahati" .
 
 :projašiti_cf a ontolex:Form ;
-    ontolex:writtenRep "projašiti"@hrv .
+    ontolex:writtenRep "projašiti" .
 
 :projecati_cf a ontolex:Form ;
-    ontolex:writtenRep "projecati"@hrv .
+    ontolex:writtenRep "projecati" .
 
 :projesti_cf a ontolex:Form ;
-    ontolex:writtenRep "projesti"@hrv .
+    ontolex:writtenRep "projesti" .
 
 :projezditi_cf a ontolex:Form ;
-    ontolex:writtenRep "projezditi"@hrv .
+    ontolex:writtenRep "projezditi" .
 
 :proječati_cf a ontolex:Form ;
-    ontolex:writtenRep "proječati"@hrv .
+    ontolex:writtenRep "proječati" .
 
 :projuriti_cf a ontolex:Form ;
-    ontolex:writtenRep "projuriti"@hrv .
+    ontolex:writtenRep "projuriti" .
 
 :projurišati_cf a ontolex:Form ;
-    ontolex:writtenRep "projurišati"@hrv .
+    ontolex:writtenRep "projurišati" .
 
 :prokaditi_cf a ontolex:Form ;
-    ontolex:writtenRep "prokaditi"@hrv .
+    ontolex:writtenRep "prokaditi" .
 
 :prokapati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokapati"@hrv .
+    ontolex:writtenRep "prokapati" .
 
 :prokartati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokartati"@hrv .
+    ontolex:writtenRep "prokartati" .
 
 :prokasati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokasati"@hrv .
+    ontolex:writtenRep "prokasati" .
 
 :prokašljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokašljati"@hrv .
+    ontolex:writtenRep "prokašljati" .
 
 :prokisnuti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokisnuti"@hrv .
+    ontolex:writtenRep "prokisnuti" .
 
 :proklackati_cf a ontolex:Form ;
-    ontolex:writtenRep "proklackati"@hrv .
+    ontolex:writtenRep "proklackati" .
 
 :proklasati_cf a ontolex:Form ;
-    ontolex:writtenRep "proklasati"@hrv .
+    ontolex:writtenRep "proklasati" .
 
 :prokleti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokleti"@hrv .
+    ontolex:writtenRep "prokleti" .
 
 :proklijati_cf a ontolex:Form ;
-    ontolex:writtenRep "proklijati"@hrv .
+    ontolex:writtenRep "proklijati" .
 
 :proklizati_cf a ontolex:Form ;
-    ontolex:writtenRep "proklizati"@hrv .
+    ontolex:writtenRep "proklizati" .
 
 :prokliziti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokliziti"@hrv .
+    ontolex:writtenRep "prokliziti" .
 
 :prokljuvati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokljuvati"@hrv .
+    ontolex:writtenRep "prokljuvati" .
 
 :proključati_cf a ontolex:Form ;
-    ontolex:writtenRep "proključati"@hrv .
+    ontolex:writtenRep "proključati" .
 
 :proknjižiti_cf a ontolex:Form ;
-    ontolex:writtenRep "proknjižiti"@hrv .
+    ontolex:writtenRep "proknjižiti" .
 
 :prokockati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokockati"@hrv .
+    ontolex:writtenRep "prokockati" .
 
 :prokomešati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokomešati"@hrv .
+    ontolex:writtenRep "prokomešati" .
 
 :prokontrolirati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokontrolirati"@hrv .
+    ontolex:writtenRep "prokontrolirati" .
 
 :prokopati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokopati"@hrv .
+    ontolex:writtenRep "prokopati" .
 
 :prokopkati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokopkati"@hrv .
+    ontolex:writtenRep "prokopkati" .
 
 :prokotrljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokotrljati"@hrv .
+    ontolex:writtenRep "prokotrljati" .
 
 :prokoškati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokoškati"@hrv .
+    ontolex:writtenRep "prokoškati" .
 
 :prokrasti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrasti"@hrv .
+    ontolex:writtenRep "prokrasti" .
 
 :prokreštati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokreštati"@hrv .
+    ontolex:writtenRep "prokreštati" .
 
 :prokrhati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrhati"@hrv .
+    ontolex:writtenRep "prokrhati" .
 
 :prokrijumčariti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrijumčariti"@hrv .
+    ontolex:writtenRep "prokrijumčariti" .
 
 :prokrivudati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrivudati"@hrv .
+    ontolex:writtenRep "prokrivudati" .
 
 :prokrkljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrkljati"@hrv .
+    ontolex:writtenRep "prokrkljati" .
 
 :prokrstariti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrstariti"@hrv .
+    ontolex:writtenRep "prokrstariti" .
 
 :prokrvariti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrvariti"@hrv .
+    ontolex:writtenRep "prokrvariti" .
 
 :prokrvaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrvaviti"@hrv .
+    ontolex:writtenRep "prokrvaviti" .
 
 :prokrčiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrčiti"@hrv .
+    ontolex:writtenRep "prokrčiti" .
 
 :prokrčkati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokrčkati"@hrv .
+    ontolex:writtenRep "prokrčkati" .
 
 :prokuhati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokuhati"@hrv .
+    ontolex:writtenRep "prokuhati" .
 
 :prokukati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokukati"@hrv .
+    ontolex:writtenRep "prokukati" .
 
 :prokuljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokuljati"@hrv .
+    ontolex:writtenRep "prokuljati" .
 
 :prokunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokunjati"@hrv .
+    ontolex:writtenRep "prokunjati" .
 
 :prokuražiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokuražiti"@hrv .
+    ontolex:writtenRep "prokuražiti" .
 
 :prokurvati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokurvati"@hrv .
+    ontolex:writtenRep "prokurvati" .
 
 :prokušati_cf a ontolex:Form ;
-    ontolex:writtenRep "prokušati"@hrv .
+    ontolex:writtenRep "prokušati" .
 
 :prokužiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokužiti"@hrv .
+    ontolex:writtenRep "prokužiti" .
 
 :prokvasiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prokvasiti"@hrv .
+    ontolex:writtenRep "prokvasiti" .
 
 :prolagati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolagati"@hrv .
+    ontolex:writtenRep "prolagati" .
 
 :prolajati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolajati"@hrv .
+    ontolex:writtenRep "prolajati" .
 
 :prolaprdati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolaprdati"@hrv .
+    ontolex:writtenRep "prolaprdati" .
 
 :prolebdjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "prolebdjeti"@hrv .
+    ontolex:writtenRep "prolebdjeti" .
 
 :prolediti_cf a ontolex:Form ;
-    ontolex:writtenRep "prolediti"@hrv .
+    ontolex:writtenRep "prolediti" .
 
 :prolepršati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolepršati"@hrv .
+    ontolex:writtenRep "prolepršati" .
 
 :proletjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "proletjeti"@hrv .
+    ontolex:writtenRep "proletjeti" .
 
 :proležati_cf a ontolex:Form ;
-    ontolex:writtenRep "proležati"@hrv .
+    ontolex:writtenRep "proležati" .
 
 :prolistati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolistati"@hrv .
+    ontolex:writtenRep "prolistati" .
 
 :proliti_cf a ontolex:Form ;
-    ontolex:writtenRep "proliti"@hrv .
+    ontolex:writtenRep "proliti" .
 
 :prolokati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolokati"@hrv .
+    ontolex:writtenRep "prolokati" .
 
 :prolomiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prolomiti"@hrv .
+    ontolex:writtenRep "prolomiti" .
 
 :proložiti_cf a ontolex:Form ;
-    ontolex:writtenRep "proložiti"@hrv .
+    ontolex:writtenRep "proložiti" .
 
 :prolumpovati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolumpovati"@hrv .
+    ontolex:writtenRep "prolumpovati" .
 
 :prolunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolunjati"@hrv .
+    ontolex:writtenRep "prolunjati" .
 
 :prolupati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolupati"@hrv .
+    ontolex:writtenRep "prolupati" .
 
 :prolutati_cf a ontolex:Form ;
-    ontolex:writtenRep "prolutati"@hrv .
+    ontolex:writtenRep "prolutati" .
 
 :promarširati_cf a ontolex:Form ;
-    ontolex:writtenRep "promarširati"@hrv .
+    ontolex:writtenRep "promarširati" .
 
 :promaziti_cf a ontolex:Form ;
-    ontolex:writtenRep "promaziti"@hrv .
+    ontolex:writtenRep "promaziti" .
 
 :promaštati_cf a ontolex:Form ;
-    ontolex:writtenRep "promaštati"@hrv .
+    ontolex:writtenRep "promaštati" .
 
 :promigoljiti_cf a ontolex:Form ;
-    ontolex:writtenRep "promigoljiti"@hrv .
+    ontolex:writtenRep "promigoljiti" .
 
 :promijesiti_cf a ontolex:Form ;
-    ontolex:writtenRep "promijesiti"@hrv .
+    ontolex:writtenRep "promijesiti" .
 
 :promiješati_cf a ontolex:Form ;
-    ontolex:writtenRep "promiješati"@hrv .
+    ontolex:writtenRep "promiješati" .
 
 :promiljeti_cf a ontolex:Form ;
-    ontolex:writtenRep "promiljeti"@hrv .
+    ontolex:writtenRep "promiljeti" .
 
 :promilovati_cf a ontolex:Form ;
-    ontolex:writtenRep "promilovati"@hrv .
+    ontolex:writtenRep "promilovati" .
 
 :promisliti_cf a ontolex:Form ;
-    ontolex:writtenRep "promisliti"@hrv .
+    ontolex:writtenRep "promisliti" .
 
 :promjeriti_cf a ontolex:Form ;
-    ontolex:writtenRep "promjeriti"@hrv .
+    ontolex:writtenRep "promjeriti" .
 
 :promoliti_cf a ontolex:Form ;
-    ontolex:writtenRep "promoliti"@hrv .
+    ontolex:writtenRep "promoliti" .
 
 :promotriti_cf a ontolex:Form ;
-    ontolex:writtenRep "promotriti"@hrv .
+    ontolex:writtenRep "promotriti" .
 
 :promozgati_cf a ontolex:Form ;
-    ontolex:writtenRep "promozgati"@hrv .
+    ontolex:writtenRep "promozgati" .
 
 :promočiti_cf a ontolex:Form ;
-    ontolex:writtenRep "promočiti"@hrv .
+    ontolex:writtenRep "promočiti" .
 
 :promrdati_cf a ontolex:Form ;
-    ontolex:writtenRep "promrdati"@hrv .
+    ontolex:writtenRep "promrdati" .
 
 :promrljati_cf a ontolex:Form ;
-    ontolex:writtenRep "promrljati"@hrv .
+    ontolex:writtenRep "promrljati" .
 
 :promrmljati_cf a ontolex:Form ;
-    ontolex:writtenRep "promrmljati"@hrv .
+    ontolex:writtenRep "promrmljati" .
 
 :promrmoljiti_cf a ontolex:Form ;
-    ontolex:writtenRep "promrmoljiti"@hrv .
+    ontolex:writtenRep "promrmoljiti" .
 
 :promrmoriti_cf a ontolex:Form ;
-    ontolex:writtenRep "promrmoriti"@hrv .
+    ontolex:writtenRep "promrmoriti" .
 
 :promrsiti_cf a ontolex:Form ;
-    ontolex:writtenRep "promrsiti"@hrv .
+    ontolex:writtenRep "promrsiti" .
 
 :promrznuti_cf a ontolex:Form ;
-    ontolex:writtenRep "promrznuti"@hrv .
+    ontolex:writtenRep "promrznuti" .
 
 :promucati_cf a ontolex:Form ;
-    ontolex:writtenRep "promucati"@hrv .
+    ontolex:writtenRep "promucati" .
 
 :promumljati_cf a ontolex:Form ;
-    ontolex:writtenRep "promumljati"@hrv .
+    ontolex:writtenRep "promumljati" .
 
 :promunđati_cf a ontolex:Form ;
-    ontolex:writtenRep "promunđati"@hrv .
+    ontolex:writtenRep "promunđati" .
 
 :promuvati_cf a ontolex:Form ;
-    ontolex:writtenRep "promuvati"@hrv .
+    ontolex:writtenRep "promuvati" .
 
 :promućkati_cf a ontolex:Form ;
-    ontolex:writtenRep "promućkati"@hrv .
+    ontolex:writtenRep "promućkati" .
 
 :promučiti_cf a ontolex:Form ;
-    ontolex:writtenRep "promučiti"@hrv .
+    ontolex:writtenRep "promučiti" .
 
 :pronizati_cf a ontolex:Form ;
-    ontolex:writtenRep "pronizati"@hrv .
+    ontolex:writtenRep "pronizati" .
 
 :pronišaniti_cf a ontolex:Form ;
-    ontolex:writtenRep "pronišaniti"@hrv .
+    ontolex:writtenRep "pronišaniti" .
 
 :pronjušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pronjušiti"@hrv .
+    ontolex:writtenRep "pronjušiti" .
 
 :pronjuškati_cf a ontolex:Form ;
-    ontolex:writtenRep "pronjuškati"@hrv .
+    ontolex:writtenRep "pronjuškati" .
 
 :pronosati_cf a ontolex:Form ;
-    ontolex:writtenRep "pronosati"@hrv .
+    ontolex:writtenRep "pronosati" .
 
 :proparadirati_cf a ontolex:Form ;
-    ontolex:writtenRep "proparadirati"@hrv .
+    ontolex:writtenRep "proparadirati" .
 
 :proparati_cf a ontolex:Form ;
-    ontolex:writtenRep "proparati"@hrv .
+    ontolex:writtenRep "proparati" .
 
 :propasirati_cf a ontolex:Form ;
-    ontolex:writtenRep "propasirati"@hrv .
+    ontolex:writtenRep "propasirati" .
 
 :propasti_cf a ontolex:Form ;
-    ontolex:writtenRep "propasti"@hrv .
+    ontolex:writtenRep "propasti" .
 
 :propatiti_cf a ontolex:Form ;
-    ontolex:writtenRep "propatiti"@hrv .
+    ontolex:writtenRep "propatiti" .
 
 :propeti_cf a ontolex:Form ;
-    ontolex:writtenRep "propeti"@hrv .
+    ontolex:writtenRep "propeti" .
 
 :propeći_cf a ontolex:Form ;
-    ontolex:writtenRep "propeći"@hrv .
+    ontolex:writtenRep "propeći" .
 
 :propijančiti_cf a ontolex:Form ;
-    ontolex:writtenRep "propijančiti"@hrv .
+    ontolex:writtenRep "propijančiti" .
 
 :propipati_cf a ontolex:Form ;
-    ontolex:writtenRep "propipati"@hrv .
+    ontolex:writtenRep "propipati" .
 
 :propipkati_cf a ontolex:Form ;
-    ontolex:writtenRep "propipkati"@hrv .
+    ontolex:writtenRep "propipkati" .
 
 :propirjati_cf a ontolex:Form ;
-    ontolex:writtenRep "propirjati"@hrv .
+    ontolex:writtenRep "propirjati" .
 
 :propisati_cf a ontolex:Form ;
-    ontolex:writtenRep "propisati"@hrv .
+    ontolex:writtenRep "propisati" .
 
 :propitati_cf a ontolex:Form ;
-    ontolex:writtenRep "propitati"@hrv .
+    ontolex:writtenRep "propitati" .
 
 :propiti_cf a ontolex:Form ;
-    ontolex:writtenRep "propiti"@hrv .
+    ontolex:writtenRep "propiti" .
 
 :propišati_cf a ontolex:Form ;
-    ontolex:writtenRep "propišati"@hrv .
+    ontolex:writtenRep "propišati" .
 
 :propištati_cf a ontolex:Form ;
-    ontolex:writtenRep "propištati"@hrv .
+    ontolex:writtenRep "propištati" .
 
 :propjevati_cf a ontolex:Form ;
-    ontolex:writtenRep "propjevati"@hrv .
+    ontolex:writtenRep "propjevati" .
 
 :propješačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "propješačiti"@hrv .
+    ontolex:writtenRep "propješačiti" .
 
 :proplakati_cf a ontolex:Form ;
-    ontolex:writtenRep "proplakati"@hrv .
+    ontolex:writtenRep "proplakati" .
 
 :proplamtjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "proplamtjeti"@hrv .
+    ontolex:writtenRep "proplamtjeti" .
 
 :proplesti_cf a ontolex:Form ;
-    ontolex:writtenRep "proplesti"@hrv .
+    ontolex:writtenRep "proplesti" .
 
 :proplivati_cf a ontolex:Form ;
-    ontolex:writtenRep "proplivati"@hrv .
+    ontolex:writtenRep "proplivati" .
 
 :propljuvati_cf a ontolex:Form ;
-    ontolex:writtenRep "propljuvati"@hrv .
+    ontolex:writtenRep "propljuvati" .
 
 :proploviti_cf a ontolex:Form ;
-    ontolex:writtenRep "proploviti"@hrv .
+    ontolex:writtenRep "proploviti" .
 
 :propojati_cf a ontolex:Form ;
-    ontolex:writtenRep "propojati"@hrv .
+    ontolex:writtenRep "propojati" .
 
 :proprati_cf a ontolex:Form ;
-    ontolex:writtenRep "proprati"@hrv .
+    ontolex:writtenRep "proprati" .
 
 :propratiti_cf a ontolex:Form ;
-    ontolex:writtenRep "propratiti"@hrv .
+    ontolex:writtenRep "propratiti" .
 
 :proprpošati_cf a ontolex:Form ;
-    ontolex:writtenRep "proprpošati"@hrv .
+    ontolex:writtenRep "proprpošati" .
 
 :proprtiti_cf a ontolex:Form ;
-    ontolex:writtenRep "proprtiti"@hrv .
+    ontolex:writtenRep "proprtiti" .
 
 :propržiti_cf a ontolex:Form ;
-    ontolex:writtenRep "propržiti"@hrv .
+    ontolex:writtenRep "propržiti" .
 
 :propsovati_cf a ontolex:Form ;
-    ontolex:writtenRep "propsovati"@hrv .
+    ontolex:writtenRep "propsovati" .
 
 :propucati_cf a ontolex:Form ;
-    ontolex:writtenRep "propucati"@hrv .
+    ontolex:writtenRep "propucati" .
 
 :propuhati_cf a ontolex:Form ;
-    ontolex:writtenRep "propuhati"@hrv .
+    ontolex:writtenRep "propuhati" .
 
 :propupati_cf a ontolex:Form ;
-    ontolex:writtenRep "propupati"@hrv .
+    ontolex:writtenRep "propupati" .
 
 :proputiti_cf a ontolex:Form ;
-    ontolex:writtenRep "proputiti"@hrv .
+    ontolex:writtenRep "proputiti" .
 
 :propuziti_cf a ontolex:Form ;
-    ontolex:writtenRep "propuziti"@hrv .
+    ontolex:writtenRep "propuziti" .
 
 :propušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "propušiti"@hrv .
+    ontolex:writtenRep "propušiti" .
 
 :proraditi_cf a ontolex:Form ;
-    ontolex:writtenRep "proraditi"@hrv .
+    ontolex:writtenRep "proraditi" .
 
 :prorasti_cf a ontolex:Form ;
-    ontolex:writtenRep "prorasti"@hrv .
+    ontolex:writtenRep "prorasti" .
 
 :prorazgovarati_cf a ontolex:Form ;
-    ontolex:writtenRep "prorazgovarati"@hrv .
+    ontolex:writtenRep "prorazgovarati" .
 
 :proračunati_cf a ontolex:Form ;
-    ontolex:writtenRep "proračunati"@hrv .
+    ontolex:writtenRep "proračunati" .
 
 :prorediti_cf a ontolex:Form ;
-    ontolex:writtenRep "prorediti"@hrv .
+    ontolex:writtenRep "prorediti" .
 
 :prorezati_cf a ontolex:Form ;
-    ontolex:writtenRep "prorezati"@hrv .
+    ontolex:writtenRep "prorezati" .
 
 :prorešetati_cf a ontolex:Form ;
-    ontolex:writtenRep "prorešetati"@hrv .
+    ontolex:writtenRep "prorešetati" .
 
 :prorikati_cf a ontolex:Form ;
-    ontolex:writtenRep "prorikati"@hrv .
+    ontolex:writtenRep "prorikati" .
 
 :prorovati_cf a ontolex:Form ;
-    ontolex:writtenRep "prorovati"@hrv .
+    ontolex:writtenRep "prorovati" .
 
 :prosanjati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosanjati"@hrv .
+    ontolex:writtenRep "prosanjati" .
 
 :prosanjkati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosanjkati"@hrv .
+    ontolex:writtenRep "prosanjkati" .
 
 :prosijati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosijati"@hrv .
+    ontolex:writtenRep "prosijati" .
 
 :prosijedjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "prosijedjeti"@hrv .
+    ontolex:writtenRep "prosijedjeti" .
 
 :prosiktati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosiktati"@hrv .
+    ontolex:writtenRep "prosiktati" .
 
 :prosjajiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prosjajiti"@hrv .
+    ontolex:writtenRep "prosjajiti" .
 
 :prosjati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosjati"@hrv .
+    ontolex:writtenRep "prosjati" .
 
 :prosjedjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "prosjedjeti"@hrv .
+    ontolex:writtenRep "prosjedjeti" .
 
 :prosjeći_cf a ontolex:Form ;
-    ontolex:writtenRep "prosjeći"@hrv .
+    ontolex:writtenRep "prosjeći" .
 
 :proskakati_cf a ontolex:Form ;
-    ontolex:writtenRep "proskakati"@hrv .
+    ontolex:writtenRep "proskakati" .
 
 :proskakutati_cf a ontolex:Form ;
-    ontolex:writtenRep "proskakutati"@hrv .
+    ontolex:writtenRep "proskakutati" .
 
 :proskitati_cf a ontolex:Form ;
-    ontolex:writtenRep "proskitati"@hrv .
+    ontolex:writtenRep "proskitati" .
 
 :proskičati_cf a ontolex:Form ;
-    ontolex:writtenRep "proskičati"@hrv .
+    ontolex:writtenRep "proskičati" .
 
 :proslaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "proslaviti"@hrv .
+    ontolex:writtenRep "proslaviti" .
 
 :proslijediti_cf a ontolex:Form ;
-    ontolex:writtenRep "proslijediti"@hrv .
+    ontolex:writtenRep "proslijediti" .
 
 :prosloviti_cf a ontolex:Form ;
-    ontolex:writtenRep "prosloviti"@hrv .
+    ontolex:writtenRep "prosloviti" .
 
 :prosmucati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosmucati"@hrv .
+    ontolex:writtenRep "prosmucati" .
 
 :prosniti_cf a ontolex:Form ;
-    ontolex:writtenRep "prosniti"@hrv .
+    ontolex:writtenRep "prosniti" .
 
 :prospavati_cf a ontolex:Form ;
-    ontolex:writtenRep "prospavati"@hrv .
+    ontolex:writtenRep "prospavati" .
 
 :prosricati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosricati"@hrv .
+    ontolex:writtenRep "prosricati" .
 
 :prostajati_cf a ontolex:Form ;
-    ontolex:writtenRep "prostajati"@hrv .
+    ontolex:writtenRep "prostajati" .
 
 :prostenjati_cf a ontolex:Form ;
-    ontolex:writtenRep "prostenjati"@hrv .
+    ontolex:writtenRep "prostenjati" .
 
 :prostradati_cf a ontolex:Form ;
-    ontolex:writtenRep "prostradati"@hrv .
+    ontolex:writtenRep "prostradati" .
 
 :prostrijeljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prostrijeljati"@hrv .
+    ontolex:writtenRep "prostrijeljati" .
 
 :prostrići_cf a ontolex:Form ;
-    ontolex:writtenRep "prostrići"@hrv .
+    ontolex:writtenRep "prostrići" .
 
 :prostrujati_cf a ontolex:Form ;
-    ontolex:writtenRep "prostrujati"@hrv .
+    ontolex:writtenRep "prostrujati" .
 
 :prostrujiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prostrujiti"@hrv .
+    ontolex:writtenRep "prostrujiti" .
 
 :prostudirati_cf a ontolex:Form ;
-    ontolex:writtenRep "prostudirati"@hrv .
+    ontolex:writtenRep "prostudirati" .
 
 :prosuditi_cf a ontolex:Form ;
-    ontolex:writtenRep "prosuditi"@hrv .
+    ontolex:writtenRep "prosuditi" .
 
 :prosukljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosukljati"@hrv .
+    ontolex:writtenRep "prosukljati" .
 
 :prosuziti_cf a ontolex:Form ;
-    ontolex:writtenRep "prosuziti"@hrv .
+    ontolex:writtenRep "prosuziti" .
 
 :prosušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prosušiti"@hrv .
+    ontolex:writtenRep "prosušiti" .
 
 :prosvijetliti_cf a ontolex:Form ;
-    ontolex:writtenRep "prosvijetliti"@hrv .
+    ontolex:writtenRep "prosvijetliti" .
 
 :prosvirati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosvirati"@hrv .
+    ontolex:writtenRep "prosvirati" .
 
 :prosvrdlati_cf a ontolex:Form ;
-    ontolex:writtenRep "prosvrdlati"@hrv .
+    ontolex:writtenRep "prosvrdlati" .
 
 :protabati_cf a ontolex:Form ;
-    ontolex:writtenRep "protabati"@hrv .
+    ontolex:writtenRep "protabati" .
 
 :protandrkati_cf a ontolex:Form ;
-    ontolex:writtenRep "protandrkati"@hrv .
+    ontolex:writtenRep "protandrkati" .
 
 :protapkati_cf a ontolex:Form ;
-    ontolex:writtenRep "protapkati"@hrv .
+    ontolex:writtenRep "protapkati" .
 
 :protegliti_cf a ontolex:Form ;
-    ontolex:writtenRep "protegliti"@hrv .
+    ontolex:writtenRep "protegliti" .
 
 :protelaliti_cf a ontolex:Form ;
-    ontolex:writtenRep "protelaliti"@hrv .
+    ontolex:writtenRep "protelaliti" .
 
 :protepati_cf a ontolex:Form ;
-    ontolex:writtenRep "protepati"@hrv .
+    ontolex:writtenRep "protepati" .
 
 :protepsti_cf a ontolex:Form ;
-    ontolex:writtenRep "protepsti"@hrv .
+    ontolex:writtenRep "protepsti" .
 
 :protestirati_cf a ontolex:Form ;
-    ontolex:writtenRep "protestirati"@hrv .
+    ontolex:writtenRep "protestirati" .
 
 :proteći_cf a ontolex:Form ;
-    ontolex:writtenRep "proteći"@hrv .
+    ontolex:writtenRep "proteći" .
 
 :protinjati_cf a ontolex:Form ;
-    ontolex:writtenRep "protinjati"@hrv .
+    ontolex:writtenRep "protinjati" .
 
 :protitrati_cf a ontolex:Form ;
-    ontolex:writtenRep "protitrati"@hrv .
+    ontolex:writtenRep "protitrati" .
 
 :protjerati_cf a ontolex:Form ;
-    ontolex:writtenRep "protjerati"@hrv .
+    ontolex:writtenRep "protjerati" .
 
 :protkati_cf a ontolex:Form ;
-    ontolex:writtenRep "protkati"@hrv .
+    ontolex:writtenRep "protkati" .
 
 :protociljati_cf a ontolex:Form ;
-    ontolex:writtenRep "protociljati"@hrv .
+    ontolex:writtenRep "protociljati" .
 
 :protorokati_cf a ontolex:Form ;
-    ontolex:writtenRep "protorokati"@hrv .
+    ontolex:writtenRep "protorokati" .
 
 :protratiti_cf a ontolex:Form ;
-    ontolex:writtenRep "protratiti"@hrv .
+    ontolex:writtenRep "protratiti" .
 
 :protraćiti_cf a ontolex:Form ;
-    ontolex:writtenRep "protraćiti"@hrv .
+    ontolex:writtenRep "protraćiti" .
 
 :protresti_cf a ontolex:Form ;
-    ontolex:writtenRep "protresti"@hrv .
+    ontolex:writtenRep "protresti" .
 
 :protrgovati_cf a ontolex:Form ;
-    ontolex:writtenRep "protrgovati"@hrv .
+    ontolex:writtenRep "protrgovati" .
 
 :protrljati_cf a ontolex:Form ;
-    ontolex:writtenRep "protrljati"@hrv .
+    ontolex:writtenRep "protrljati" .
 
 :protrnuti_cf a ontolex:Form ;
-    ontolex:writtenRep "protrnuti"@hrv .
+    ontolex:writtenRep "protrnuti" .
 
 :protrti_cf a ontolex:Form ;
-    ontolex:writtenRep "protrti"@hrv .
+    ontolex:writtenRep "protrti" .
 
 :protrčati_cf a ontolex:Form ;
-    ontolex:writtenRep "protrčati"@hrv .
+    ontolex:writtenRep "protrčati" .
 
 :protucati_cf a ontolex:Form ;
-    ontolex:writtenRep "protucati"@hrv .
+    ontolex:writtenRep "protucati" .
 
 :protumarati_cf a ontolex:Form ;
-    ontolex:writtenRep "protumarati"@hrv .
+    ontolex:writtenRep "protumarati" .
 
 :protumačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "protumačiti"@hrv .
+    ontolex:writtenRep "protumačiti" .
 
 :protutnjati_cf a ontolex:Form ;
-    ontolex:writtenRep "protutnjati"@hrv .
+    ontolex:writtenRep "protutnjati" .
 
 :protutnjiti_cf a ontolex:Form ;
-    ontolex:writtenRep "protutnjiti"@hrv .
+    ontolex:writtenRep "protutnjiti" .
 
 :protući_cf a ontolex:Form ;
-    ontolex:writtenRep "protući"@hrv .
+    ontolex:writtenRep "protući" .
 
 :prounjkati_cf a ontolex:Form ;
-    ontolex:writtenRep "prounjkati"@hrv .
+    ontolex:writtenRep "prounjkati" .
 
 :prouzrokovati_cf a ontolex:Form ;
-    ontolex:writtenRep "prouzrokovati"@hrv .
+    ontolex:writtenRep "prouzrokovati" .
 
 :proučiti_cf a ontolex:Form ;
-    ontolex:writtenRep "proučiti"@hrv .
+    ontolex:writtenRep "proučiti" .
 
 :provaliti_cf a ontolex:Form ;
-    ontolex:writtenRep "provaliti"@hrv .
+    ontolex:writtenRep "provaliti" .
 
 :provaljati_cf a ontolex:Form ;
-    ontolex:writtenRep "provaljati"@hrv .
+    ontolex:writtenRep "provaljati" .
 
 :provaljuškati_cf a ontolex:Form ;
-    ontolex:writtenRep "provaljuškati"@hrv .
+    ontolex:writtenRep "provaljuškati" .
 
 :provariti_cf a ontolex:Form ;
-    ontolex:writtenRep "provariti"@hrv .
+    ontolex:writtenRep "provariti" .
 
 :provedriti_cf a ontolex:Form ;
-    ontolex:writtenRep "provedriti"@hrv .
+    ontolex:writtenRep "provedriti" .
 
 :proventilirati_cf a ontolex:Form ;
-    ontolex:writtenRep "proventilirati"@hrv .
+    ontolex:writtenRep "proventilirati" .
 
 :provenuti_cf a ontolex:Form ;
-    ontolex:writtenRep "provenuti"@hrv .
+    ontolex:writtenRep "provenuti" .
 
 :proveseliti_cf a ontolex:Form ;
-    ontolex:writtenRep "proveseliti"@hrv .
+    ontolex:writtenRep "proveseliti" .
 
 :provesti_cf a ontolex:Form ;
-    ontolex:writtenRep "provesti"@hrv .
+    ontolex:writtenRep "provesti" .
 
 :providjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "providjeti"@hrv .
+    ontolex:writtenRep "providjeti" .
 
 :provijati_cf a ontolex:Form ;
-    ontolex:writtenRep "provijati"@hrv .
+    ontolex:writtenRep "provijati" .
 
 :provikati_cf a ontolex:Form ;
-    ontolex:writtenRep "provikati"@hrv .
+    ontolex:writtenRep "provikati" .
 
 :proviriti_cf a ontolex:Form ;
-    ontolex:writtenRep "proviriti"@hrv .
+    ontolex:writtenRep "proviriti" .
 
 :provizitirati_cf a ontolex:Form ;
-    ontolex:writtenRep "provizitirati"@hrv .
+    ontolex:writtenRep "provizitirati" .
 
 :provjetriti_cf a ontolex:Form ;
-    ontolex:writtenRep "provjetriti"@hrv .
+    ontolex:writtenRep "provjetriti" .
 
 :provješati_cf a ontolex:Form ;
-    ontolex:writtenRep "provješati"@hrv .
+    ontolex:writtenRep "provješati" .
 
 :provozati_cf a ontolex:Form ;
-    ontolex:writtenRep "provozati"@hrv .
+    ontolex:writtenRep "provozati" .
 
 :provrijeti_cf a ontolex:Form ;
-    ontolex:writtenRep "provrijeti"@hrv .
+    ontolex:writtenRep "provrijeti" .
 
 :provriti_cf a ontolex:Form ;
-    ontolex:writtenRep "provriti"@hrv .
+    ontolex:writtenRep "provriti" .
 
 :provršljati_cf a ontolex:Form ;
-    ontolex:writtenRep "provršljati"@hrv .
+    ontolex:writtenRep "provršljati" .
 
 :provući_cf a ontolex:Form ;
-    ontolex:writtenRep "provući"@hrv .
+    ontolex:writtenRep "provući" .
 
 :prozboriti_cf a ontolex:Form ;
-    ontolex:writtenRep "prozboriti"@hrv .
+    ontolex:writtenRep "prozboriti" .
 
 :prozepsti_cf a ontolex:Form ;
-    ontolex:writtenRep "prozepsti"@hrv .
+    ontolex:writtenRep "prozepsti" .
 
 :prozračiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prozračiti"@hrv .
+    ontolex:writtenRep "prozračiti" .
 
 :prozreti_cf a ontolex:Form ;
-    ontolex:writtenRep "prozreti"@hrv .
+    ontolex:writtenRep "prozreti" .
 
 :prozujati_cf a ontolex:Form ;
-    ontolex:writtenRep "prozujati"@hrv .
+    ontolex:writtenRep "prozujati" .
 
 :prozvati_cf a ontolex:Form ;
-    ontolex:writtenRep "prozvati"@hrv .
+    ontolex:writtenRep "prozvati" .
 
 :prozviždati_cf a ontolex:Form ;
-    ontolex:writtenRep "prozviždati"@hrv .
+    ontolex:writtenRep "prozviždati" .
 
 :prozvrjati_cf a ontolex:Form ;
-    ontolex:writtenRep "prozvrjati"@hrv .
+    ontolex:writtenRep "prozvrjati" .
 
 :prozvrkati_cf a ontolex:Form ;
-    ontolex:writtenRep "prozvrkati"@hrv .
+    ontolex:writtenRep "prozvrkati" .
 
 :proćaskati_cf a ontolex:Form ;
-    ontolex:writtenRep "proćaskati"@hrv .
+    ontolex:writtenRep "proćaskati" .
 
 :proćerdati_cf a ontolex:Form ;
-    ontolex:writtenRep "proćerdati"@hrv .
+    ontolex:writtenRep "proćerdati" .
 
 :proćeretati_cf a ontolex:Form ;
-    ontolex:writtenRep "proćeretati"@hrv .
+    ontolex:writtenRep "proćeretati" .
 
 :proćutjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "proćutjeti"@hrv .
+    ontolex:writtenRep "proćutjeti" .
 
 :proćućoriti_cf a ontolex:Form ;
-    ontolex:writtenRep "proćućoriti"@hrv .
+    ontolex:writtenRep "proćućoriti" .
 
 :pročarkati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročarkati"@hrv .
+    ontolex:writtenRep "pročarkati" .
 
 :pročastiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pročastiti"@hrv .
+    ontolex:writtenRep "pročastiti" .
 
 :pročačkati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročačkati"@hrv .
+    ontolex:writtenRep "pročačkati" .
 
 :pročeprkati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročeprkati"@hrv .
+    ontolex:writtenRep "pročeprkati" .
 
 :pročešati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročešati"@hrv .
+    ontolex:writtenRep "pročešati" .
 
 :pročeškati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročeškati"@hrv .
+    ontolex:writtenRep "pročeškati" .
 
 :pročešljati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročešljati"@hrv .
+    ontolex:writtenRep "pročešljati" .
 
 :pročistiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pročistiti"@hrv .
+    ontolex:writtenRep "pročistiti" .
 
 :pročitati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročitati"@hrv .
+    ontolex:writtenRep "pročitati" .
 
 :pročupati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročupati"@hrv .
+    ontolex:writtenRep "pročupati" .
 
 :pročuti_cf a ontolex:Form ;
-    ontolex:writtenRep "pročuti"@hrv .
+    ontolex:writtenRep "pročuti" .
 
 :pročučati_cf a ontolex:Form ;
-    ontolex:writtenRep "pročučati"@hrv .
+    ontolex:writtenRep "pročučati" .
 
 :prošaliti_cf a ontolex:Form ;
-    ontolex:writtenRep "prošaliti"@hrv .
+    ontolex:writtenRep "prošaliti" .
 
 :prošaptati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošaptati"@hrv .
+    ontolex:writtenRep "prošaptati" .
 
 :prošaputati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošaputati"@hrv .
+    ontolex:writtenRep "prošaputati" .
 
 :prošarati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošarati"@hrv .
+    ontolex:writtenRep "prošarati" .
 
 :prošetati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošetati"@hrv .
+    ontolex:writtenRep "prošetati" .
 
 :prošikljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošikljati"@hrv .
+    ontolex:writtenRep "prošikljati" .
 
 :proširiti_cf a ontolex:Form ;
-    ontolex:writtenRep "proširiti"@hrv .
+    ontolex:writtenRep "proširiti" .
 
 :prošiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prošiti"@hrv .
+    ontolex:writtenRep "prošiti" .
 
 :prošišati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošišati"@hrv .
+    ontolex:writtenRep "prošišati" .
 
 :prošištati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošištati"@hrv .
+    ontolex:writtenRep "prošištati" .
 
 :proškripati_cf a ontolex:Form ;
-    ontolex:writtenRep "proškripati"@hrv .
+    ontolex:writtenRep "proškripati" .
 
 :prošnjofati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošnjofati"@hrv .
+    ontolex:writtenRep "prošnjofati" .
 
 :prošpartati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošpartati"@hrv .
+    ontolex:writtenRep "prošpartati" .
 
 :proštudirati_cf a ontolex:Form ;
-    ontolex:writtenRep "proštudirati"@hrv .
+    ontolex:writtenRep "proštudirati" .
 
 :prošunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošunjati"@hrv .
+    ontolex:writtenRep "prošunjati" .
 
 :prošuškati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošuškati"@hrv .
+    ontolex:writtenRep "prošuškati" .
 
 :prošvercati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošvercati"@hrv .
+    ontolex:writtenRep "prošvercati" .
 
 :prošvindlati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošvindlati"@hrv .
+    ontolex:writtenRep "prošvindlati" .
 
 :prošvrljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prošvrljati"@hrv .
+    ontolex:writtenRep "prošvrljati" .
 
 :prožderati_cf a ontolex:Form ;
-    ontolex:writtenRep "prožderati"@hrv .
+    ontolex:writtenRep "prožderati" .
 
 :proždrati_cf a ontolex:Form ;
-    ontolex:writtenRep "proždrati"@hrv .
+    ontolex:writtenRep "proždrati" .
 
 :proždrijeti_cf a ontolex:Form ;
-    ontolex:writtenRep "proždrijeti"@hrv .
+    ontolex:writtenRep "proždrijeti" .
 
 :prožeti_cf a ontolex:Form ;
-    ontolex:writtenRep "prožeti"@hrv .
+    ontolex:writtenRep "prožeti" .
 
 :prožeći_cf a ontolex:Form ;
-    ontolex:writtenRep "prožeći"@hrv .
+    ontolex:writtenRep "prožeći" .
 
 :proživjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "proživjeti"@hrv .
+    ontolex:writtenRep "proživjeti" .
 
 :prožutjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "prožutjeti"@hrv .
+    ontolex:writtenRep "prožutjeti" .
 
 :prožvakati_cf a ontolex:Form ;
-    ontolex:writtenRep "prožvakati"@hrv .
+    ontolex:writtenRep "prožvakati" .
 
 :prpošati_cf a ontolex:Form ;
-    ontolex:writtenRep "prpošati"@hrv .
+    ontolex:writtenRep "prpošati" .
 
 :prtiti_cf a ontolex:Form ;
-    ontolex:writtenRep "prtiti"@hrv .
+    ontolex:writtenRep "prtiti" .
 
 :prtljati_cf a ontolex:Form ;
-    ontolex:writtenRep "prtljati"@hrv .
+    ontolex:writtenRep "prtljati" .
 
 :pržiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pržiti"@hrv .
+    ontolex:writtenRep "pržiti" .
 
 :psovati_cf a ontolex:Form ;
-    ontolex:writtenRep "psovati"@hrv .
+    ontolex:writtenRep "psovati" .
 
 :pucati_cf a ontolex:Form ;
-    ontolex:writtenRep "pucati"@hrv .
+    ontolex:writtenRep "pucati" .
 
 :puhati_cf a ontolex:Form ;
-    ontolex:writtenRep "puhati"@hrv .
+    ontolex:writtenRep "puhati" .
 
 :pupati_cf a ontolex:Form ;
-    ontolex:writtenRep "pupati"@hrv .
+    ontolex:writtenRep "pupati" .
 
 :putiti_cf a ontolex:Form ;
-    ontolex:writtenRep "putiti"@hrv .
+    ontolex:writtenRep "putiti" .
 
 :putovati_cf a ontolex:Form ;
-    ontolex:writtenRep "putovati"@hrv .
+    ontolex:writtenRep "putovati" .
 
 :puzati_cf a ontolex:Form ;
-    ontolex:writtenRep "puzati"@hrv .
+    ontolex:writtenRep "puzati" .
 
 :puziti_cf a ontolex:Form ;
-    ontolex:writtenRep "puziti"@hrv .
+    ontolex:writtenRep "puziti" .
 
 :pušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "pušiti"@hrv .
+    ontolex:writtenRep "pušiti" .
 
 :raditi_cf a ontolex:Form ;
-    ontolex:writtenRep "raditi"@hrv .
+    ontolex:writtenRep "raditi" .
 
 :raniti_cf a ontolex:Form ;
-    ontolex:writtenRep "raniti"@hrv .
+    ontolex:writtenRep "raniti" .
 
 :rasti_cf a ontolex:Form ;
-    ontolex:writtenRep "rasti"@hrv .
+    ontolex:writtenRep "rasti" .
 
 :raz_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "raz-"@hrv .
+    ontolex:writtenRep "raz-" .
 
 :razgovarati_cf a ontolex:Form ;
-    ontolex:writtenRep "razgovarati"@hrv .
+    ontolex:writtenRep "razgovarati" .
 
 :računati_cf a ontolex:Form ;
-    ontolex:writtenRep "računati"@hrv .
+    ontolex:writtenRep "računati" .
 
 :re_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "re-"@hrv .
+    ontolex:writtenRep "re-" .
 
 :reagirati_cf a ontolex:Form ;
-    ontolex:writtenRep "reagirati"@hrv .
+    ontolex:writtenRep "reagirati" .
 
 :rediti_cf a ontolex:Form ;
-    ontolex:writtenRep "rediti"@hrv .
+    ontolex:writtenRep "rediti" .
 
 :reskati_cf a ontolex:Form ;
-    ontolex:writtenRep "reskati"@hrv .
+    ontolex:writtenRep "reskati" .
 
 :rezati_cf a ontolex:Form ;
-    ontolex:writtenRep "rezati"@hrv .
+    ontolex:writtenRep "rezati" .
 
 :rešetati_cf a ontolex:Form ;
-    ontolex:writtenRep "rešetati"@hrv .
+    ontolex:writtenRep "rešetati" .
 
 :rikati_cf a ontolex:Form ;
-    ontolex:writtenRep "rikati"@hrv .
+    ontolex:writtenRep "rikati" .
 
 :robijati_cf a ontolex:Form ;
-    ontolex:writtenRep "robijati"@hrv .
+    ontolex:writtenRep "robijati" .
 
 :robiti_cf a ontolex:Form ;
-    ontolex:writtenRep "robiti"@hrv .
+    ontolex:writtenRep "robiti" .
 
 :robovati_cf a ontolex:Form ;
-    ontolex:writtenRep "robovati"@hrv .
+    ontolex:writtenRep "robovati" .
 
 :roniti_cf a ontolex:Form ;
-    ontolex:writtenRep "roniti"@hrv .
+    ontolex:writtenRep "roniti" .
 
 :rovati_cf a ontolex:Form ;
-    ontolex:writtenRep "rovati"@hrv .
+    ontolex:writtenRep "rovati" .
 
 :rubiti_cf a ontolex:Form ;
-    ontolex:writtenRep "rubiti"@hrv .
+    ontolex:writtenRep "rubiti" .
 
 :ručiti_cf a ontolex:Form ;
-    ontolex:writtenRep "ručiti"@hrv .
+    ontolex:writtenRep "ručiti" .
 
 :s_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "s-"@hrv .
+    ontolex:writtenRep "s-" .
 
 :sa_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "sa-"@hrv .
+    ontolex:writtenRep "sa-" .
 
 :sanjati_cf a ontolex:Form ;
-    ontolex:writtenRep "sanjati"@hrv .
+    ontolex:writtenRep "sanjati" .
 
 :sanjkati_cf a ontolex:Form ;
-    ontolex:writtenRep "sanjkati"@hrv .
+    ontolex:writtenRep "sanjkati" .
 
 :sedlati_cf a ontolex:Form ;
-    ontolex:writtenRep "sedlati"@hrv .
+    ontolex:writtenRep "sedlati" .
 
 :seliti_cf a ontolex:Form ;
-    ontolex:writtenRep "seliti"@hrv .
+    ontolex:writtenRep "seliti" .
 
 :sijati_cf a ontolex:Form ;
-    ontolex:writtenRep "sijati"@hrv .
+    ontolex:writtenRep "sijati" .
 
 :sijedjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "sijedjeti"@hrv .
+    ontolex:writtenRep "sijedjeti" .
 
 :siktati_cf a ontolex:Form ;
-    ontolex:writtenRep "siktati"@hrv .
+    ontolex:writtenRep "siktati" .
 
 :sipati_cf a ontolex:Form ;
-    ontolex:writtenRep "sipati"@hrv .
+    ontolex:writtenRep "sipati" .
 
 :sjajiti_cf a ontolex:Form ;
-    ontolex:writtenRep "sjajiti"@hrv .
+    ontolex:writtenRep "sjajiti" .
 
 :sjati_cf a ontolex:Form ;
-    ontolex:writtenRep "sjati"@hrv .
+    ontolex:writtenRep "sjati" .
 
 :sjedjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "sjedjeti"@hrv .
+    ontolex:writtenRep "sjedjeti" .
 
 :sjeći_cf a ontolex:Form ;
-    ontolex:writtenRep "sjeći"@hrv .
+    ontolex:writtenRep "sjeći" .
 
 :skakati_cf a ontolex:Form ;
-    ontolex:writtenRep "skakati"@hrv .
+    ontolex:writtenRep "skakati" .
 
 :skakutati_cf a ontolex:Form ;
-    ontolex:writtenRep "skakutati"@hrv .
+    ontolex:writtenRep "skakutati" .
 
 :skitati_cf a ontolex:Form ;
-    ontolex:writtenRep "skitati"@hrv .
+    ontolex:writtenRep "skitati" .
 
 :skičati_cf a ontolex:Form ;
-    ontolex:writtenRep "skičati"@hrv .
+    ontolex:writtenRep "skičati" .
 
 :slaviti_cf a ontolex:Form ;
-    ontolex:writtenRep "slaviti"@hrv .
+    ontolex:writtenRep "slaviti" .
 
 :slijediti_cf a ontolex:Form ;
-    ontolex:writtenRep "slijediti"@hrv .
+    ontolex:writtenRep "slijediti" .
 
 :slikati_cf a ontolex:Form ;
-    ontolex:writtenRep "slikati"@hrv .
+    ontolex:writtenRep "slikati" .
 
 :sloviti_cf a ontolex:Form ;
-    ontolex:writtenRep "sloviti"@hrv .
+    ontolex:writtenRep "sloviti" .
 
 :slušati_cf a ontolex:Form ;
-    ontolex:writtenRep "slušati"@hrv .
+    ontolex:writtenRep "slušati" .
 
 :služiti_cf a ontolex:Form ;
-    ontolex:writtenRep "služiti"@hrv .
+    ontolex:writtenRep "služiti" .
 
 :smijati_cf a ontolex:Form ;
-    ontolex:writtenRep "smijati"@hrv .
+    ontolex:writtenRep "smijati" .
 
 :smucati_cf a ontolex:Form ;
-    ontolex:writtenRep "smucati"@hrv .
+    ontolex:writtenRep "smucati" .
 
 :sniti_cf a ontolex:Form ;
-    ontolex:writtenRep "sniti"@hrv .
+    ontolex:writtenRep "sniti" .
 
 :spavati_cf a ontolex:Form ;
-    ontolex:writtenRep "spavati"@hrv .
+    ontolex:writtenRep "spavati" .
 
 :srditi_cf a ontolex:Form ;
-    ontolex:writtenRep "srditi"@hrv .
+    ontolex:writtenRep "srditi" .
 
 :sricati_cf a ontolex:Form ;
-    ontolex:writtenRep "sricati"@hrv .
+    ontolex:writtenRep "sricati" .
 
 :stajati_cf a ontolex:Form ;
-    ontolex:writtenRep "stajati"@hrv .
+    ontolex:writtenRep "stajati" .
 
 :stenjati_cf a ontolex:Form ;
-    ontolex:writtenRep "stenjati"@hrv .
+    ontolex:writtenRep "stenjati" .
 
 :stradati_cf a ontolex:Form ;
-    ontolex:writtenRep "stradati"@hrv .
+    ontolex:writtenRep "stradati" .
 
 :strijeljati_cf a ontolex:Form ;
-    ontolex:writtenRep "strijeljati"@hrv .
+    ontolex:writtenRep "strijeljati" .
 
 :strići_cf a ontolex:Form ;
-    ontolex:writtenRep "strići"@hrv .
+    ontolex:writtenRep "strići" .
 
 :strujati_cf a ontolex:Form ;
-    ontolex:writtenRep "strujati"@hrv .
+    ontolex:writtenRep "strujati" .
 
 :strujiti_cf a ontolex:Form ;
-    ontolex:writtenRep "strujiti"@hrv .
+    ontolex:writtenRep "strujiti" .
 
 :studirati_cf a ontolex:Form ;
-    ontolex:writtenRep "studirati"@hrv .
+    ontolex:writtenRep "studirati" .
 
 :su_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "su-"@hrv .
+    ontolex:writtenRep "su-" .
 
 :suditi_cf a ontolex:Form ;
-    ontolex:writtenRep "suditi"@hrv .
+    ontolex:writtenRep "suditi" .
 
 :sukati_cf a ontolex:Form ;
-    ontolex:writtenRep "sukati"@hrv .
+    ontolex:writtenRep "sukati" .
 
 :sukljati_cf a ontolex:Form ;
-    ontolex:writtenRep "sukljati"@hrv .
+    ontolex:writtenRep "sukljati" .
 
 :suziti_cf a ontolex:Form ;
-    ontolex:writtenRep "suziti"@hrv .
+    ontolex:writtenRep "suziti" .
 
 :sušiti_cf a ontolex:Form ;
-    ontolex:writtenRep "sušiti"@hrv .
+    ontolex:writtenRep "sušiti" .
 
 :svijetliti_cf a ontolex:Form ;
-    ontolex:writtenRep "svijetliti"@hrv .
+    ontolex:writtenRep "svijetliti" .
 
 :svirati_cf a ontolex:Form ;
-    ontolex:writtenRep "svirati"@hrv .
+    ontolex:writtenRep "svirati" .
 
 :svrdlati_cf a ontolex:Form ;
-    ontolex:writtenRep "svrdlati"@hrv .
+    ontolex:writtenRep "svrdlati" .
 
 :tabati_cf a ontolex:Form ;
-    ontolex:writtenRep "tabati"@hrv .
+    ontolex:writtenRep "tabati" .
 
 :tandrkati_cf a ontolex:Form ;
-    ontolex:writtenRep "tandrkati"@hrv .
+    ontolex:writtenRep "tandrkati" .
 
 :tapkati_cf a ontolex:Form ;
-    ontolex:writtenRep "tapkati"@hrv .
+    ontolex:writtenRep "tapkati" .
 
 :tegliti_cf a ontolex:Form ;
-    ontolex:writtenRep "tegliti"@hrv .
+    ontolex:writtenRep "tegliti" .
 
 :telaliti_cf a ontolex:Form ;
-    ontolex:writtenRep "telaliti"@hrv .
+    ontolex:writtenRep "telaliti" .
 
 :tepati_cf a ontolex:Form ;
-    ontolex:writtenRep "tepati"@hrv .
+    ontolex:writtenRep "tepati" .
 
 :tepsti_cf a ontolex:Form ;
-    ontolex:writtenRep "tepsti"@hrv .
+    ontolex:writtenRep "tepsti" .
 
 :teretiti_cf a ontolex:Form ;
-    ontolex:writtenRep "teretiti"@hrv .
+    ontolex:writtenRep "teretiti" .
 
 :testirati_cf a ontolex:Form ;
-    ontolex:writtenRep "testirati"@hrv .
+    ontolex:writtenRep "testirati" .
 
 :teturati_cf a ontolex:Form ;
-    ontolex:writtenRep "teturati"@hrv .
+    ontolex:writtenRep "teturati" .
 
 :teći_cf a ontolex:Form ;
-    ontolex:writtenRep "teći"@hrv .
+    ontolex:writtenRep "teći" .
 
 :tinjati_cf a ontolex:Form ;
-    ontolex:writtenRep "tinjati"@hrv .
+    ontolex:writtenRep "tinjati" .
 
 :titrati_cf a ontolex:Form ;
-    ontolex:writtenRep "titrati"@hrv .
+    ontolex:writtenRep "titrati" .
 
 :tjerati_cf a ontolex:Form ;
-    ontolex:writtenRep "tjerati"@hrv .
+    ontolex:writtenRep "tjerati" .
 
 :tkati_cf a ontolex:Form ;
-    ontolex:writtenRep "tkati"@hrv .
+    ontolex:writtenRep "tkati" .
 
 :tociljati_cf a ontolex:Form ;
-    ontolex:writtenRep "tociljati"@hrv .
+    ontolex:writtenRep "tociljati" .
 
 :torokati_cf a ontolex:Form ;
-    ontolex:writtenRep "torokati"@hrv .
+    ontolex:writtenRep "torokati" .
 
 :tratiti_cf a ontolex:Form ;
-    ontolex:writtenRep "tratiti"@hrv .
+    ontolex:writtenRep "tratiti" .
 
 :traćiti_cf a ontolex:Form ;
-    ontolex:writtenRep "traćiti"@hrv .
+    ontolex:writtenRep "traćiti" .
 
 :tresti_cf a ontolex:Form ;
-    ontolex:writtenRep "tresti"@hrv .
+    ontolex:writtenRep "tresti" .
 
 :trgovati_cf a ontolex:Form ;
-    ontolex:writtenRep "trgovati"@hrv .
+    ontolex:writtenRep "trgovati" .
 
 :trljati_cf a ontolex:Form ;
-    ontolex:writtenRep "trljati"@hrv .
+    ontolex:writtenRep "trljati" .
 
 :trnuti_cf a ontolex:Form ;
-    ontolex:writtenRep "trnuti"@hrv .
+    ontolex:writtenRep "trnuti" .
 
 :trti_cf a ontolex:Form ;
-    ontolex:writtenRep "trti"@hrv .
+    ontolex:writtenRep "trti" .
 
 :trčati_cf a ontolex:Form ;
-    ontolex:writtenRep "trčati"@hrv .
+    ontolex:writtenRep "trčati" .
 
 :tucati_cf a ontolex:Form ;
-    ontolex:writtenRep "tucati"@hrv .
+    ontolex:writtenRep "tucati" .
 
 :tumarati_cf a ontolex:Form ;
-    ontolex:writtenRep "tumarati"@hrv .
+    ontolex:writtenRep "tumarati" .
 
 :tumačiti_cf a ontolex:Form ;
-    ontolex:writtenRep "tumačiti"@hrv .
+    ontolex:writtenRep "tumačiti" .
 
 :tutnjati_cf a ontolex:Form ;
-    ontolex:writtenRep "tutnjati"@hrv .
+    ontolex:writtenRep "tutnjati" .
 
 :tutnjiti_cf a ontolex:Form ;
-    ontolex:writtenRep "tutnjiti"@hrv .
+    ontolex:writtenRep "tutnjiti" .
 
 :tući_cf a ontolex:Form ;
-    ontolex:writtenRep "tući"@hrv .
+    ontolex:writtenRep "tući" .
 
 :u_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "u-"@hrv .
+    ontolex:writtenRep "u-" .
 
 :umarati_cf a ontolex:Form ;
-    ontolex:writtenRep "umarati"@hrv .
+    ontolex:writtenRep "umarati" .
 
 :unjkati_cf a ontolex:Form ;
-    ontolex:writtenRep "unjkati"@hrv .
+    ontolex:writtenRep "unjkati" .
 
 :uz_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "uz-"@hrv .
+    ontolex:writtenRep "uz-" .
 
 :uzrokovati_cf a ontolex:Form ;
-    ontolex:writtenRep "uzrokovati"@hrv .
+    ontolex:writtenRep "uzrokovati" .
 
 :učiti_cf a ontolex:Form ;
-    ontolex:writtenRep "učiti"@hrv .
+    ontolex:writtenRep "učiti" .
 
 :užiti_cf a ontolex:Form ;
-    ontolex:writtenRep "užiti"@hrv .
+    ontolex:writtenRep "užiti" .
 
 :vaditi_cf a ontolex:Form ;
-    ontolex:writtenRep "vaditi"@hrv .
+    ontolex:writtenRep "vaditi" .
 
 :vagati_cf a ontolex:Form ;
-    ontolex:writtenRep "vagati"@hrv .
+    ontolex:writtenRep "vagati" .
 
 :valiti_cf a ontolex:Form ;
-    ontolex:writtenRep "valiti"@hrv .
+    ontolex:writtenRep "valiti" .
 
 :valjati_cf a ontolex:Form ;
-    ontolex:writtenRep "valjati"@hrv .
+    ontolex:writtenRep "valjati" .
 
 :valjuškati_cf a ontolex:Form ;
-    ontolex:writtenRep "valjuškati"@hrv .
+    ontolex:writtenRep "valjuškati" .
 
 :variti_cf a ontolex:Form ;
-    ontolex:writtenRep "variti"@hrv .
+    ontolex:writtenRep "variti" .
 
 :važiti_cf a ontolex:Form ;
-    ontolex:writtenRep "važiti"@hrv .
+    ontolex:writtenRep "važiti" .
 
 :vedriti_cf a ontolex:Form ;
-    ontolex:writtenRep "vedriti"@hrv .
+    ontolex:writtenRep "vedriti" .
 
 :ventilirati_cf a ontolex:Form ;
-    ontolex:writtenRep "ventilirati"@hrv .
+    ontolex:writtenRep "ventilirati" .
 
 :venuti_cf a ontolex:Form ;
-    ontolex:writtenRep "venuti"@hrv .
+    ontolex:writtenRep "venuti" .
 
 :verglati_cf a ontolex:Form ;
-    ontolex:writtenRep "verglati"@hrv .
+    ontolex:writtenRep "verglati" .
 
 :veseliti_cf a ontolex:Form ;
-    ontolex:writtenRep "veseliti"@hrv .
+    ontolex:writtenRep "veseliti" .
 
 :veslati_cf a ontolex:Form ;
-    ontolex:writtenRep "veslati"@hrv .
+    ontolex:writtenRep "veslati" .
 
 :vesti_cf a ontolex:Form ;
-    ontolex:writtenRep "vesti"@hrv .
+    ontolex:writtenRep "vesti" .
 
 :vezati_cf a ontolex:Form ;
-    ontolex:writtenRep "vezati"@hrv .
+    ontolex:writtenRep "vezati" .
 
 :vidati_cf a ontolex:Form ;
-    ontolex:writtenRep "vidati"@hrv .
+    ontolex:writtenRep "vidati" .
 
 :vidjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "vidjeti"@hrv .
+    ontolex:writtenRep "vidjeti" .
 
 :vijati_cf a ontolex:Form ;
-    ontolex:writtenRep "vijati"@hrv .
+    ontolex:writtenRep "vijati" .
 
 :vikati_cf a ontolex:Form ;
-    ontolex:writtenRep "vikati"@hrv .
+    ontolex:writtenRep "vikati" .
 
 :viriti_cf a ontolex:Form ;
-    ontolex:writtenRep "viriti"@hrv .
+    ontolex:writtenRep "viriti" .
 
 :viti_cf a ontolex:Form ;
-    ontolex:writtenRep "viti"@hrv .
+    ontolex:writtenRep "viti" .
 
 :vizitirati_cf a ontolex:Form ;
-    ontolex:writtenRep "vizitirati"@hrv .
+    ontolex:writtenRep "vizitirati" .
 
 :vjetriti_cf a ontolex:Form ;
-    ontolex:writtenRep "vjetriti"@hrv .
+    ontolex:writtenRep "vjetriti" .
 
 :vješati_cf a ontolex:Form ;
-    ontolex:writtenRep "vješati"@hrv .
+    ontolex:writtenRep "vješati" .
 
 :vozati_cf a ontolex:Form ;
-    ontolex:writtenRep "vozati"@hrv .
+    ontolex:writtenRep "vozati" .
 
 :vrijeti_cf a ontolex:Form ;
-    ontolex:writtenRep "vrijeti"@hrv .
+    ontolex:writtenRep "vrijeti" .
 
 :vriti_cf a ontolex:Form ;
-    ontolex:writtenRep "vriti"@hrv .
+    ontolex:writtenRep "vriti" .
 
 :vrludati_cf a ontolex:Form ;
-    ontolex:writtenRep "vrludati"@hrv .
+    ontolex:writtenRep "vrludati" .
 
 :vrsti_cf a ontolex:Form ;
-    ontolex:writtenRep "vrsti"@hrv .
+    ontolex:writtenRep "vrsti" .
 
 :vršljati_cf a ontolex:Form ;
-    ontolex:writtenRep "vršljati"@hrv .
+    ontolex:writtenRep "vršljati" .
 
 :vući_cf a ontolex:Form ;
-    ontolex:writtenRep "vući"@hrv .
+    ontolex:writtenRep "vući" .
 
 :za_prefix_form a ontolex:Form ;
-    ontolex:writtenRep "za-"@hrv .
+    ontolex:writtenRep "za-" .
 
 :zboriti_cf a ontolex:Form ;
-    ontolex:writtenRep "zboriti"@hrv .
+    ontolex:writtenRep "zboriti" .
 
 :zepsti_cf a ontolex:Form ;
-    ontolex:writtenRep "zepsti"@hrv .
+    ontolex:writtenRep "zepsti" .
 
 :zračiti_cf a ontolex:Form ;
-    ontolex:writtenRep "zračiti"@hrv .
+    ontolex:writtenRep "zračiti" .
 
 :zreti_cf a ontolex:Form ;
-    ontolex:writtenRep "zreti"@hrv .
+    ontolex:writtenRep "zreti" .
 
 :zujati_cf a ontolex:Form ;
-    ontolex:writtenRep "zujati"@hrv .
+    ontolex:writtenRep "zujati" .
 
 :zvati_cf a ontolex:Form ;
-    ontolex:writtenRep "zvati"@hrv .
+    ontolex:writtenRep "zvati" .
 
 :zviždati_cf a ontolex:Form ;
-    ontolex:writtenRep "zviždati"@hrv .
+    ontolex:writtenRep "zviždati" .
 
 :zvoniti_cf a ontolex:Form ;
-    ontolex:writtenRep "zvoniti"@hrv .
+    ontolex:writtenRep "zvoniti" .
 
 :zvrjati_cf a ontolex:Form ;
-    ontolex:writtenRep "zvrjati"@hrv .
+    ontolex:writtenRep "zvrjati" .
 
 :zvrkati_cf a ontolex:Form ;
-    ontolex:writtenRep "zvrkati"@hrv .
+    ontolex:writtenRep "zvrkati" .
 
 :ćaskati_cf a ontolex:Form ;
-    ontolex:writtenRep "ćaskati"@hrv .
+    ontolex:writtenRep "ćaskati" .
 
 :ćerdati_cf a ontolex:Form ;
-    ontolex:writtenRep "ćerdati"@hrv .
+    ontolex:writtenRep "ćerdati" .
 
 :ćeretati_cf a ontolex:Form ;
-    ontolex:writtenRep "ćeretati"@hrv .
+    ontolex:writtenRep "ćeretati" .
 
 :ćutjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "ćutjeti"@hrv .
+    ontolex:writtenRep "ćutjeti" .
 
 :ćućoriti_cf a ontolex:Form ;
-    ontolex:writtenRep "ćućoriti"@hrv .
+    ontolex:writtenRep "ćućoriti" .
 
 :čarkati_cf a ontolex:Form ;
-    ontolex:writtenRep "čarkati"@hrv .
+    ontolex:writtenRep "čarkati" .
 
 :častiti_cf a ontolex:Form ;
-    ontolex:writtenRep "častiti"@hrv .
+    ontolex:writtenRep "častiti" .
 
 :čačkati_cf a ontolex:Form ;
-    ontolex:writtenRep "čačkati"@hrv .
+    ontolex:writtenRep "čačkati" .
 
 :čepiti_cf a ontolex:Form ;
-    ontolex:writtenRep "čepiti"@hrv .
+    ontolex:writtenRep "čepiti" .
 
 :čeprkati_cf a ontolex:Form ;
-    ontolex:writtenRep "čeprkati"@hrv .
+    ontolex:writtenRep "čeprkati" .
 
 :češati_cf a ontolex:Form ;
-    ontolex:writtenRep "češati"@hrv .
+    ontolex:writtenRep "češati" .
 
 :češkati_cf a ontolex:Form ;
-    ontolex:writtenRep "češkati"@hrv .
+    ontolex:writtenRep "češkati" .
 
 :češljati_cf a ontolex:Form ;
-    ontolex:writtenRep "češljati"@hrv .
+    ontolex:writtenRep "češljati" .
 
 :činiti_cf a ontolex:Form ;
-    ontolex:writtenRep "činiti"@hrv .
+    ontolex:writtenRep "činiti" .
 
 :čistiti_cf a ontolex:Form ;
-    ontolex:writtenRep "čistiti"@hrv .
+    ontolex:writtenRep "čistiti" .
 
 :čitati_cf a ontolex:Form ;
-    ontolex:writtenRep "čitati"@hrv .
+    ontolex:writtenRep "čitati" .
 
 :čupati_cf a ontolex:Form ;
-    ontolex:writtenRep "čupati"@hrv .
+    ontolex:writtenRep "čupati" .
 
 :čuti_cf a ontolex:Form ;
-    ontolex:writtenRep "čuti"@hrv .
+    ontolex:writtenRep "čuti" .
 
 :čučati_cf a ontolex:Form ;
-    ontolex:writtenRep "čučati"@hrv .
+    ontolex:writtenRep "čučati" .
 
 :šaliti_cf a ontolex:Form ;
-    ontolex:writtenRep "šaliti"@hrv .
+    ontolex:writtenRep "šaliti" .
 
 :šaptati_cf a ontolex:Form ;
-    ontolex:writtenRep "šaptati"@hrv .
+    ontolex:writtenRep "šaptati" .
 
 :šaputati_cf a ontolex:Form ;
-    ontolex:writtenRep "šaputati"@hrv .
+    ontolex:writtenRep "šaputati" .
 
 :šarafiti_cf a ontolex:Form ;
-    ontolex:writtenRep "šarafiti"@hrv .
+    ontolex:writtenRep "šarafiti" .
 
 :šarati_cf a ontolex:Form ;
-    ontolex:writtenRep "šarati"@hrv .
+    ontolex:writtenRep "šarati" .
 
 :šepesati_cf a ontolex:Form ;
-    ontolex:writtenRep "šepesati"@hrv .
+    ontolex:writtenRep "šepesati" .
 
 :šetati_cf a ontolex:Form ;
-    ontolex:writtenRep "šetati"@hrv .
+    ontolex:writtenRep "šetati" .
 
 :šikljati_cf a ontolex:Form ;
-    ontolex:writtenRep "šikljati"@hrv .
+    ontolex:writtenRep "šikljati" .
 
 :širiti_cf a ontolex:Form ;
-    ontolex:writtenRep "širiti"@hrv .
+    ontolex:writtenRep "širiti" .
 
 :šiti_cf a ontolex:Form ;
-    ontolex:writtenRep "šiti"@hrv .
+    ontolex:writtenRep "šiti" .
 
 :šišati_cf a ontolex:Form ;
-    ontolex:writtenRep "šišati"@hrv .
+    ontolex:writtenRep "šišati" .
 
 :šištati_cf a ontolex:Form ;
-    ontolex:writtenRep "šištati"@hrv .
+    ontolex:writtenRep "šištati" .
 
 :škripati_cf a ontolex:Form ;
-    ontolex:writtenRep "škripati"@hrv .
+    ontolex:writtenRep "škripati" .
 
 :šnirati_cf a ontolex:Form ;
-    ontolex:writtenRep "šnirati"@hrv .
+    ontolex:writtenRep "šnirati" .
 
 :šnjofati_cf a ontolex:Form ;
-    ontolex:writtenRep "šnjofati"@hrv .
+    ontolex:writtenRep "šnjofati" .
 
 :špartati_cf a ontolex:Form ;
-    ontolex:writtenRep "špartati"@hrv .
+    ontolex:writtenRep "špartati" .
 
 :šrafiti_cf a ontolex:Form ;
-    ontolex:writtenRep "šrafiti"@hrv .
+    ontolex:writtenRep "šrafiti" .
 
 :štampati_cf a ontolex:Form ;
-    ontolex:writtenRep "štampati"@hrv .
+    ontolex:writtenRep "štampati" .
 
 :študirati_cf a ontolex:Form ;
-    ontolex:writtenRep "študirati"@hrv .
+    ontolex:writtenRep "študirati" .
 
 :šuljati_cf a ontolex:Form ;
-    ontolex:writtenRep "šuljati"@hrv .
+    ontolex:writtenRep "šuljati" .
 
 :šunjati_cf a ontolex:Form ;
-    ontolex:writtenRep "šunjati"@hrv .
+    ontolex:writtenRep "šunjati" .
 
 :šutjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "šutjeti"@hrv .
+    ontolex:writtenRep "šutjeti" .
 
 :šuškati_cf a ontolex:Form ;
-    ontolex:writtenRep "šuškati"@hrv .
+    ontolex:writtenRep "šuškati" .
 
 :švercati_cf a ontolex:Form ;
-    ontolex:writtenRep "švercati"@hrv .
+    ontolex:writtenRep "švercati" .
 
 :švindlati_cf a ontolex:Form ;
-    ontolex:writtenRep "švindlati"@hrv .
+    ontolex:writtenRep "švindlati" .
 
 :švrljati_cf a ontolex:Form ;
-    ontolex:writtenRep "švrljati"@hrv .
+    ontolex:writtenRep "švrljati" .
 
 :žderati_cf a ontolex:Form ;
-    ontolex:writtenRep "žderati"@hrv .
+    ontolex:writtenRep "žderati" .
 
 :ždrati_cf a ontolex:Form ;
-    ontolex:writtenRep "ždrati"@hrv .
+    ontolex:writtenRep "ždrati" .
 
 :ždrijeti_cf a ontolex:Form ;
-    ontolex:writtenRep "ždrijeti"@hrv .
+    ontolex:writtenRep "ždrijeti" .
 
 :žeti_cf a ontolex:Form ;
-    ontolex:writtenRep "žeti"@hrv .
+    ontolex:writtenRep "žeti" .
 
 :žeći_cf a ontolex:Form ;
-    ontolex:writtenRep "žeći"@hrv .
+    ontolex:writtenRep "žeći" .
 
 :živjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "živjeti"@hrv .
+    ontolex:writtenRep "živjeti" .
 
 :žutjeti_cf a ontolex:Form ;
-    ontolex:writtenRep "žutjeti"@hrv .
+    ontolex:writtenRep "žutjeti" .
 
 :žvakati_cf a ontolex:Form ;
-    ontolex:writtenRep "žvakati"@hrv .
+    ontolex:writtenRep "žvakati" .
 
 :odbauljati_le a ontolex:LexicalEntry ;
     rdfs:seeAlso <https://rjecnik.sandzak.com/odbauljati> ;
