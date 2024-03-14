@@ -20,17 +20,10 @@ import {onMounted, ref} from "vue";
 import {getDescribeResults} from "./services/sparql";
 
 const sparql = new QueryEngine();
-const { params } = useData();
+const { basePrefix, endpoints, params } = useData().page.value;
 const results = ref([]);
 
-// TODO: create a config and put it there
-const basePrefix = 'https://ionov.me/aspect-db/';
-const uri = `${basePrefix}${params.value?.subj}`;
-const urls = ref([
-                    'https://raw.githubusercontent.com/max-ionov/aspect-db/main/rdf/aspect_bs.ttl',
-                    'https://raw.githubusercontent.com/max-ionov/aspect-db/main/rdf/aspect_hr.ttl',
-                    'https://raw.githubusercontent.com/max-ionov/aspect-db/main/rdf/aspect_sr.ttl'
-]);
-getDescribeResults(sparql, uri, endpoints.value).then((result) => { results.value = result; });
+const uri = `${basePrefix}${params.lang}-${params.subj}`;
+getDescribeResults(sparql, uri, endpoints).then((result) => { results.value = result; });
 
 </script>

@@ -37,12 +37,12 @@ This allows you to see how the aspectual pair is formed for a given verb
 </div>
 
 <script setup>
-import {onMounted, ref} from "vue"; 
+import {ref} from "vue"; 
 import {QueryEngine} from "@comunica/query-sparql";
 import {getQueryResults, buildVerbPairQuery, buildPrefixQuery} from "./services/sparql"; 
+import {useData} from 'vitepress';
 
-const url = ref("");
-onMounted(() => { url.value = location.href.replace(/\/[^/]+$/, "/aspect.ttl"); console.log(url.value) });
+const { endpoints } = useData().page.value;
 
 const sparql = new QueryEngine();
 
@@ -53,10 +53,10 @@ const aspectPairs = ref([]);
 const prefixedVerbs = ref([]);
 
 const getAspectPairs = () => {
-    getQueryResults(sparql, buildVerbPairQuery(queryVerb.value), ["s2", "lemma2"], url.value).then((result) => { aspectPairs.value = result });
+    getQueryResults(sparql, buildVerbPairQuery(queryVerb.value), ["s2", "lemma2"], endpoints).then((result) => { aspectPairs.value = result });
 };
 
 const getVerbsWithPrefixes = () => {
-    getQueryResults(sparql, buildPrefixQuery(queryPrefix.value), ["s", "lemma"], url.value).then((result) => { prefixedVerbs.value = result });
+    getQueryResults(sparql, buildPrefixQuery(queryPrefix.value), ["s", "lemma"], endpoints).then((result) => { prefixedVerbs.value = result });
 }
 </script>

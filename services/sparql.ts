@@ -43,11 +43,11 @@ export const buildPrefixQuery = (param: string) => {
 
 export const getQueryResults = async (sparql: QueryEngine,
                                       query: string,
-                                      keys: Array<string>,
-                                      endpoint: string) => {
+                                      keys: string[],
+                                      endpoints: string[]) => {
     let result = []
 
-    const bindingsStream = await sparql.queryBindings(query, {sources: [endpoint]})
+    const bindingsStream = await sparql.queryBindings(query, {sources: endpoints})
     const bindings = await bindingsStream?.toArray()
 
     for(let row of bindings) {
@@ -59,11 +59,11 @@ export const getQueryResults = async (sparql: QueryEngine,
 
 export const getDescribeResults = async (sparql: QueryEngine,
                                          uri: string,
-                                         endpoint: string) => {
+                                         endpoints: string[]) => {
     let result = [];
 
     const quadStream = await sparql.queryQuads(`DESCRIBE <${uri}>`,
-        { sources: [endpoint] });
+        { sources: endpoints });
     const quads = await quadStream.toArray()
 
     for(let row of quads) {

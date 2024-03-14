@@ -1,11 +1,12 @@
 import { defineConfig } from 'vitepress'
+import { getUserConfig } from '../config/config'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Verb Aspect Database",
   description: "A database of Bosnian, Croatian and Serbian aspect verb pairs",
   base: '/aspect-db/',
-  srcExclude: ['**/README.html'],
+  srcExclude: ['**/README.html', 'docs'],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -17,5 +18,9 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/max-ionov/aspect-db' }
     ]
+  },
+  transformPageData: (pageData) => {
+    return getUserConfig()
   }
 })
+
