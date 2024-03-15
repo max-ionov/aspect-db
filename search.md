@@ -5,7 +5,7 @@
 This allows you to see how the aspectual pair is formed for a given verb
 <form onsubmit="return false">
     <input placeholder="verb: pisati" id="verb" v-model="queryVerb"/>
-    <button @click="getAspectPairs()">Get verbs</button>
+    <button @click="getAspectPairs" :style="btnAspectPairsStyle" :disabled="btnAspectPairsDisabled">Get verbs</button>
 </form>
 
 <div v-if="aspectPairs?.length">
@@ -25,7 +25,7 @@ This allows you to see how the aspectual pair is formed for a given verb
 This allows you to see how the aspectual pair is formed for a given verb
 <form onsubmit="return false">
 <input placeholder="prefix: ot" id="prefix" v-model="queryPrefix"/>
-<button @click="getVerbsWithPrefixes()">Get verbs</button>
+<button @click="getVerbsWithPrefixes" :style="btnPrefixesStyle" :disabled="btnPrefixesDisabled">Get verbs</button>
 </form>
 
 <div v-if="prefixedVerbs?.length">
@@ -41,7 +41,7 @@ This allows you to see how the aspectual pair is formed for a given verb
 </div>
 
 <script setup>
-import {ref} from "vue"; 
+import {computed, reactive, ref} from "vue"; 
 import {QueryEngine} from "@comunica/query-sparql";
 import {getQueryResults, buildVerbPairQuery, buildPrefixQuery} from "./services/sparql"; 
 import {useData} from 'vitepress';
@@ -62,12 +62,32 @@ const queryPrefix = ref("");
 const aspectPairs = ref([]);
 const prefixedVerbs = ref([]);
 
+const btnPrefixesDisabled = ref(false);
+const btnAspectPairsDisabled = ref(false);
+
+const btnPrefixesStyle = reactive({
+    cursor: computed(() => btnPrefixesDisabled.value ? 'wait' : 'pointer')
+});
+
+const btnAspectPairsStyle = reactive({
+    cursor: computed(() => btnAspectPairsDisabled.value ? 'wait' : 'pointer')
+});
+
+
 const getAspectPairs = () => {
-    getQueryResults(sparql, buildVerbPairQuery(queryVerb.value), ["s2", "lemma2", "lang"], endpoints).then((result) => { aspectPairs.value = result });
+    btnAspectPairsDisabled.value = true;
+    getQueryResults(sparql, buildVerbPairQuery(queryVerb.value), ["s2", "lemma2", "lang"], endpoints).then((result) => {
+        btnAspectPairsDisabled.value = false;
+        aspectPairs.value = result
+    });
 };
 
 const getVerbsWithPrefixes = () => {
-    getQueryResults(sparql, buildPrefixQuery(queryPrefix.value), ["s", "lemma", "lang"], endpoints).then((result) => { prefixedVerbs.value = result });
+btnPrefixesDisabled.value = true;    
+getQueryResults(sparql, buildPrefixQuery(queryPrefix.value), ["s", "lemma", "lang"], endpoints).then((result) => {
+        btnPrefixesDisabled.value = false;
+        prefixedVerbs.value = result 
+    });
 }
 </script>
 
@@ -101,4 +121,5 @@ form input {
     background: transparent;
     transition: background-color .5s;
 }
+
 </style>
