@@ -14,6 +14,7 @@ export default defineConfig({
       { text: 'Search', link: '/search' },
       { text: 'About', link: '/about' }
     ],
+    aside: false,
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/max-ionov/aspect-db' }

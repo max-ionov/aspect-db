@@ -25,6 +25,7 @@ export default {
                     params: {
                         subj: parts[1],
                         lang: parts[0],
+                        uri: s['uri'].val,
                         triples: await getDescribeResults(sparql, s['uri'].val, endpoints)
                     }
                 })

@@ -1,5 +1,5 @@
 <div v-if="results?.length">
-    <h2>Triples about {{ uri }}</h2>
+    <h2>Triples about <code><{{ uri }}></code></h2>
     <table>
     <thead>
         <tr><td>Subj</td><td>Pred</td><td>Obj</td><td>Graph</td></tr>
@@ -18,5 +18,6 @@ import {useData} from "vitepress";
 
 const { params } = useData().page.value;
 const results = params.triples;
+const uri = params.uri;
 
 </script>
